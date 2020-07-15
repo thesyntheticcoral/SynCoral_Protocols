@@ -8,7 +8,7 @@ projects: Putnam Lab, Lewinski Lab, Synthetic Coral
 ---
 
 # Standard protocol for determining cnidarian cell yield and viability via Mechanical scraping
-# Based on [Domart-Coulon et al. 2011] (https://www.pnas.org/content/98/21/11885.short)
+# Based on [Domart-Coulon et al. 2011](https://www.pnas.org/content/98/21/11885.short)
 
 Original: 220200715  
 Last Revised: 20200715  
@@ -48,6 +48,7 @@ Contents
 10. Transfer 10 uL of the cell suspension to a hemocytometer and count the number of algae cells and coral cells noting the number of each cell type that stain blue.
 11. Count at least three 1 mm x 1 mm squares per hemocytometer side to obtain six measurements in one experiment.
 12. Report the following data:
+
 | Cell type | Total count | Dead count |
 | --- | --- | --- |
 | Algae | --- | --- |
@@ -59,8 +60,8 @@ Contents
   d = depth of hemocytometer chamber (0.1 mm)
   A = area of hemocytometer counted (mm^2)
   f = conversion factor (1000 mm^3/mL)
-  NOTE: cell harvesting by calcium-magnesium free seawater induced tissue detachment [Domart-Coulon et al. 2011] (https://www.pnas.org/content/98/21/11885.short) report a yield of 0.5-1 x 106 cells from a 0.3-0.5 mm long coral nubbin after 3 h incubation. NL lab replicated this method and was able to harvest 1.8 x 106 cells from a 0.7 mm long coral nubbin, which aligns with the previously reported findings.
+  NOTE: cell harvesting by calcium-magnesium free seawater induced tissue detachment [Domart-Coulon et al. 2011](https://www.pnas.org/content/98/21/11885.short) report a yield of 0.5-1 x 106 cells from a 0.3-0.5 mm long coral nubbin after 3 h incubation. NL lab replicated this method and was able to harvest 1.8 x 106 cells from a 0.7 mm long coral nubbin, which aligns with the previously reported findings.
 14. Securely cap Eppendorf tube and dispose of trypan blue dyed cell suspension into biohazard waste.
 
 4. <a name="References"></a> **References**
-  i. [Domart-Coulon et al. 2011] (https://www.pnas.org/content/98/21/11885.short)
+  i. [Domart-Coulon et al. 2011](https://www.pnas.org/content/98/21/11885.short)
