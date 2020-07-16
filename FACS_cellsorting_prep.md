@@ -11,7 +11,7 @@ projects: Putnam Lab, Lewinski Lab, Synthetic Coral
 Based on [Rosenthal et al. BMC Cell Biology 2017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5575905/) and assistance from Rebecca Martin and Julie Farnsworth
 
 Original: 220200715
-Last Revised: 20200715
+Last Revised: 20200716
 
 Contents  
 - [**Materials**](#Materials)    
@@ -33,14 +33,14 @@ Contents
 A. Cell Preparation for Fluorescence-Activated Cell Sorting (FACS):
   1. Transfer media containing cells to a conical tube and centrifuge at 1200 rpm for 3 minutes to pellet cells.
   2. Remove supernatant and resuspend in 3 mL of DAPI working solution.
-    a. DAPI 1 mg (Millipore Sigma cat. no. D9542); Stock solution = 1 mg/mL DAPI in DI water; Working solution = 1 μg/ml DAPI in PBS
-    b. NOTE: This is a short cut to stain while counting.  Separate steps if anticipate cell counting will take longer than 15 minutes
+    - a. DAPI 1 mg (Millipore Sigma cat. no. D9542); Stock solution = 1 mg/mL DAPI in DI water; Working solution = 1 μg/ml DAPI in PBS
+    - b. NOTE: This is a short cut to stain while counting.  Separate steps if anticipate cell counting will take longer than 15 minutes
   3. Count cells then centrifuge and resuspend cell pellet in volume of 1X PBS for cell concentration of 1-2 x106 cells/m
   4. Aliquot cells as needed.
   5. Filter 1 mL of cells through cell strainer into FACS tube.
-    a. Corning Falcon test tube with cell strainer snap cap (Fisher Scientific cat. no. 08-771-23)
+    - a. Corning Falcon test tube with cell strainer snap cap (Fisher Scientific cat. no. 08-771-23)
   6. Store FACS tubes at room temperature and take to flow cytometry core for immediate analysis (within 2 hours).
-    a. NOTE: If you do not need viable cells, can also fix cells in 1% paraformaldehyde in PBS and store at 4ºC for up to 1 week.
+    - a. NOTE: If you do not need viable cells, can also fix cells in 1% paraformaldehyde in PBS and store at 4ºC for up to 1 week.
 
 B. Cell Sorting using FACS (based on Rosenthal et al. BMC Cell Biology 2017 and assistance from Rebecca Martin and Julie Farnsworth):
   1. NOTE: FACS machine used: BD FACSAria™ II High-Speed Cell Sorter with BD FACSDiva software.
