@@ -5,37 +5,37 @@ date: '2020-07-15'
 categories: Protocols
 tags: cnidarian cell culturing
 projects: Putnam Lab, Lewinski Lab, Synthetic Coral
--
+---
 
 # Standard protocol for Cell preparation and sorting for Fluorescence-Activated Cell Sorting (FACS)
 Based on [Rosenthal et al. BMC Cell Biology 2017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5575905/) and assistance from Rebecca Martin and Julie Farnsworth
 
 Original: 220200715
-Last Revised: 20200716
+Last Revised: 20200721
 
-Contents  
+## Table of Contents  
 - [**Materials**](#Materials)    
 - [**Protocol**](#Protocol)  
 - [**References**](#References)  
 
-1. <a name="Materials"></a> **Materials**
-    - 	Conical tubes
-    -   Centrifuge (1200 rpm)
-    - 	DI water
-    - 	[DAPI Millipore Sigma cat. no. D9542 ] (https://www.sigmaaldrich.com/catalog/product/sigma/d9542?lang=en&region=US)
-    -   1x PBS
-    -   Pipette (P1000)
-    -   FACS tube [Corning Falcon test tube with cell strainer snap cap. Fisher Scientific cat. no. 08-771-23](https://www.fishersci.com/shop/products/falcon-tube-cell-strainer-cap-mesh-size-35um/0877123)
-    -   Refrigerator
-    -   1% paraformaldehyde
+A. <a name="Materials"></a> **Materials**
+  - Conical tubes (15 mL)
+  - Centrifuge (1200 rpm)
+  - DI water
+  - [DAPI Millipore Sigma cat. no. D9542 ](https://www.sigmaaldrich.com/catalog/product/sigma/d9542?lang=en&region=US)
+  - 1x PBS
+  - Pipette (P1000)
+  - FACS tube [Corning Falcon test tube with cell strainer snap cap. Fisher Scientific cat. no. 08-771-23](https://www.fishersci.com/shop/products/falcon-tube-cell-strainer-cap-mesh-size-35um/0877123)
+  - Refrigerator
+  - 1% paraformaldehyde
+  - hemocytometer
 
-2. <a name="Protocol"></a> **Protocol**
-A. Cell Preparation for Fluorescence-Activated Cell Sorting (FACS):
-  1. Transfer media containing cells to a conical tube and centrifuge at 1200 rpm for 3 minutes to pellet cells.
+B. <a name="Protocol"></a> **Protocol**
+  1. After harvesting coral cells, Transfer media containing cells to a 15 mL conical tube and centrifuge at 1200 rpm for 3 minutes to pellet cells.
   2. Remove supernatant and resuspend in 3 mL of DAPI working solution.
     - a. DAPI 1 mg (Millipore Sigma cat. no. D9542); Stock solution = 1 mg/mL DAPI in DI water; Working solution = 1 μg/ml DAPI in PBS
-    - b. NOTE: This is a short cut to stain while counting.  Separate steps if anticipate cell counting will take longer than 15 minutes
-  3. Count cells then centrifuge and resuspend cell pellet in volume of 1X PBS for cell concentration of 1-2 x106 cells/m
+    - b. NOTE: This is a short cut to stain while counting.  If you anticipate cell counting will take longer than 15 minutes, separate these steps by resuspending the cell pellet in PBS to conduct the cell count first then repeat steps 1 & 2 to stain with DAPI.
+  3. Count cells using a hemocytometer then centrifuge (1200 rpm) and resuspend cell pellet in volume of 1X PBS for cell concentration of 1-2 x106 cells/m
   4. Aliquot cells as needed.
   5. Filter 1 mL of cells through cell strainer into FACS tube.
     - a. Corning Falcon test tube with cell strainer snap cap (Fisher Scientific cat. no. 08-771-23)
@@ -50,4 +50,5 @@ B. Cell Sorting using FACS (based on Rosenthal et al. BMC Cell Biology 2017 and 
 
 
 4. <a name="References"></a> **References**
+
   i. [Rosenthal et al. BMC Cell Biology 2017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5575905/)
