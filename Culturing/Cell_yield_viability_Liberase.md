@@ -11,7 +11,7 @@ projects: Putnam Lab, Lewinski Lab, Synthetic Coral
 # based on [Lecointe et al 2013](https://link.springer.com/content/pdf/10.1007/s10616-013-9562-6.pdf)
 
 Original: 220200715  
-Last Revised: 20200716  
+Last Revised: 20200721  
 
 Contents  
 - [**Materials**](#Materials)    
@@ -19,21 +19,21 @@ Contents
 - [**References**](#References)  
 
 A. <a name="Materials"></a> **Materials**
-    - 70% ethanol
-    - Scissors
-    - Medical grade toenail clippers
-    - Sterile filtered artificial seawater (regular and CaMg free)
-    - antibiotics-antimycotics solution
-    - Liberase solution
-    - Sterile plastic petri dish
-    - Scraper tool (surgical hook, sterile scalpel, toothbrush, paintbrush)
-    - Conical tube (?15 mL?)
-    - Centrifuge (can reach 1200 rpm)
-    - Shaking incubator (25 C, 30 rpm)
-    - Pipette (P200, P20)
-    - Trypan blue stain
-    - Hemocytometer
-    - Eppendorf tube
+  - 70% ethanol
+  - Scissors
+  - Medical grade toenail clippers
+  - Sterile filtered artificial seawater (regular and CaMg free)
+  - [antibiotics-antimycotics solution](https://www.thermofisher.com/order/catalog/product/15240062#/15240062)
+  - Liberase solution
+  - Sterile plastic petri dish
+  - Scraper tool (surgical hook, sterile scalpel, toothbrush, paintbrush)
+  - Conical tube (15 mL)
+  - Centrifuge (can reach 1200 rpm)
+  - Shaking incubator (25 C, 30 rpm)
+  - Pipette (P200, P20)
+  - Trypan blue stain
+  - Hemocytometer
+  - Eppendorf tube
 
 B. <a name="Protocol"></a> **Protocol**
 
@@ -59,8 +59,8 @@ B. <a name="Protocol"></a> **Protocol**
 
 | Cell type | Total count | Dead count |
 | --- | --- | --- |
-| Algae | --- | --- |
-| Coral | --- | --- |
+| Algae |   |     |
+| Coral |   |     |
 
 16. Calculate the cell solution concentration. C = c/d/A*f
   - C = concentration (cells/mL)
