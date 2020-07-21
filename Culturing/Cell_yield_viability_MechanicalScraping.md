@@ -12,7 +12,7 @@ projects: Putnam Lab, Lewinski Lab, Synthetic Coral
 ## Based on [Domart-Coulon et al. 2011](https://www.pnas.org/content/98/21/11885.short)
 
 Original: 220200715  
-Last Revised: 20200716  
+Last Revised: 20200721  
 
 Contents  
 - [**Materials**](#Materials)    
@@ -24,9 +24,10 @@ A. <a name="Materials"></a> **Materials**
     - Scissors
     - Medical grade toenail clippers
     - Sterile filtered artificial seawater (regular and CaMg free)
+        -[Anti-Anti](https://www.thermofisher.com/order/catalog/product/15240062#/15240062)
     - Sterile plastic petri dish
     - Scraper tool (surgical hook, sterile scalpel, toothbrush, paintbrush)
-    - Conical tube (?15 mL?)
+    - Conical tube (15 mL)
     - Centrifuge (can reach 1200 rpm)
     - Pipette (P200, P20)
     - Trypan blue stain
@@ -43,9 +44,9 @@ B. <a name="Protocol"></a> **Protocol**
 6. Mechanically scrape nubbin using a sterile scalpel or surgical hook.
     - a. NOTE: Need to try scraping polyps only first then coenosarc as a means of separating cell types.
     - b. NOTE: could also try toothbrush, paintbrush as scraper tool.
-7. Transfer water containing detached tissue and cells to a conical tube (?SIZE?) and centrifuge at 1200 rpm for 3 minutes.  A pellet should be visible at the bottom of the conical tube.
+7. Transfer water containing detached tissue and cells to a 15 mL conical tube and centrifuge at 1200 rpm for 3 minutes.  A pellet should be visible at the bottom of the conical tube.
 8. Aspirate the supernatant and resuspend with 5 mL of coral cell culture media.
-    - Lewinski lab coral culture media includes: 15 mL DMEM, 10 mL FBS, 0.5 mL Anti-Anti, 0.5 mL Gentamicin, 74 mL artificial seawater.
+    - Lewinski lab coral culture media includes: 15 mL DMEM, 10 mL FBS, [0.5 mL Anti-Anti](https://www.thermofisher.com/order/catalog/product/15240062#/15240062), 0.5 mL Gentamicin, 74 mL artificial seawater.
     - NOTE: Filter all ingredients using a Corning vacuum filter/storage bottle system with 0.2 μm pore size membrane.
     - NOTE: When used 1 mL PenStrep, microorganism overgrowth observed on day 2 post-harvest.
 9. Transfer 100 uL of the cell suspension to an Eppendorf tube and add 10 uL of trypan blue stain.  Mix the cell suspension with the dye.
@@ -55,8 +56,8 @@ B. <a name="Protocol"></a> **Protocol**
 12. Report the following data:
 | Cell type | Total count | Dead count |
 | --- | --- | --- |
-| Algae |---|---|
-| Coral |---|---|
+| Algae |
+| Coral |
 
 13. Calculate the cell solution concentration. C = c/d/A*f
   - C = concentration (cells/mL)
