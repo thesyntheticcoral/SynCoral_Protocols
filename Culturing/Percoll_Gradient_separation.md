@@ -19,12 +19,12 @@ Last Revised: 20200716
 - [**References**](#References)  
 
 A. <a name="Materials"></a> **Materials**
-    - Percoll
-    - Filtered artificial seawater
-    - Refrigerator
-    - 15 mL conical tubes
-    - P1000 micropipette
-    - Centrifuge with swing bucket rotor (needs to reach 1460 rpm)
+  - Percoll
+  - Filtered artificial seawater
+  - Refrigerator
+  - 15 mL conical tubes
+  - P1000 micropipette
+  - Centrifuge with swing bucket rotor (needs to reach 1460 rpm)
 
 B. <a name="Protocol"></a> **Protocol**
 1. Prepare 100 (no mixing), 90, 80, 70, 60, 50, 40, 30, 20, 10, 5% Percoll solutions by mixing 100% Percoll with the appropriate volume of filtered artificial seawater in individual Eppendorf or 15 mL conical tubes.
