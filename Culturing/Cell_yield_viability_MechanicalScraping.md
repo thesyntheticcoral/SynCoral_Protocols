@@ -19,20 +19,21 @@ Contents
 - [**References**](#References)  
 
 A. <a name="Materials"></a> **Materials**
-    -  forceps
-      -   70% ethanol
-      -   Scissors
-      -   Medical grade toenail clippers
-      -   Sterile filtered artificial seawater (regular and CaMg free)
-      -   [Anti-Anti](https://www.thermofisher.com/order/catalog/product/15240062#/15240062)
-      -   Sterile plastic petri dish
-      -   Scraper tool (surgical hook, sterile scalpel, toothbrush, paintbrush)
-      -   Conical tube (15 mL)
-      -   Centrifuge (can reach 1200 rpm)
-      -   Pipette (P200, P20)
-      -   Trypan blue stain
-      -   Hemocytometer
-      -   Eppendorf tube
+    -  DI water
+
+    -   70% ethanol
+    -   Scissors
+    -   Medical grade toenail clippers
+    -   Sterile filtered artificial seawater (regular and CaMg free)
+    -   [Anti-Anti](https://www.thermofisher.com/order/catalog/product/15240062#/15240062)
+    -   Sterile plastic petri dish
+    -   Scraper tool (surgical hook, sterile scalpel, toothbrush, paintbrush)
+    -   Conical tube (15 mL)
+    -   Centrifuge (can reach 1200 rpm)
+    -   Pipette (P200, P20)
+    -   Trypan blue stain
+    -   Hemocytometer
+    -   Eppendorf tube
 
 B. <a name="Protocol"></a> **Protocol**
 
@@ -54,6 +55,7 @@ B. <a name="Protocol"></a> **Protocol**
 10. Transfer 10 uL of the cell suspension to a hemocytometer and count the number of algae cells and coral cells noting the number of each cell type that stain blue.
 11. Count at least three 1 mm x 1 mm squares per hemocytometer side to obtain six measurements in one experiment.
 12. Report the following data:
+
 | Cell type | Total count | Dead count |
 | --- | --- | --- |
 | Algae |   |     |
