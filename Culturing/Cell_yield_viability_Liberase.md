@@ -8,12 +8,12 @@ projects: Putnam Lab, Lewinski Lab, Synthetic Coral
 ---
 
 # Standard protocol for determining cnidarian cell yield and viability using Liberase digestion
-# based on [Lecointe et al 2013](https://link.springer.com/content/pdf/10.1007/s10616-013-9562-6.pdf)
+## based on [Lecointe et al 2013](https://link.springer.com/content/pdf/10.1007/s10616-013-9562-6.pdf)
 
 Original: 220200715  
 Last Revised: 20200721  
 
-Contents  
+## Table of Contents  
 - [**Materials**](#Materials)    
 - [**Protocol**](#Protocol)  
 - [**References**](#References)  
@@ -24,7 +24,7 @@ A. <a name="Materials"></a> **Materials**
   - Medical grade toenail clippers
   - Sterile filtered artificial seawater (regular and CaMg free)
   - [antibiotics-antimycotics solution](https://www.thermofisher.com/order/catalog/product/15240062#/15240062)
-  - Liberase solution
+  - [Liberase solution Millipore Sigma cat. no. 5401119001](https://www.sigmaaldrich.com/catalog/product/roche/libtmro?lang=en&region=US&gclid=Cj0KCQjwpNr4BRDYARIsAADIx9zfc5YGD6_945gvdyfUuAw24tSf-Xyaf-Xb_pm_QNG67XttLhyo7hMaAtpPEALw_wcB)
   - Sterile plastic petri dish
   - Scraper tool (surgical hook, sterile scalpel, toothbrush, paintbrush)
   - Conical tube (15 mL)
@@ -45,9 +45,11 @@ B. <a name="Protocol"></a> **Protocol**
 6. Either
   - a. Mechanically scrape nubbin using a sterile scalpel or surgical hook.
 	- Or
-  - b. Incubate nubbin at 25°C for 3 hours in shaking incubator (rpm 30), in filtered, calcium and magnesium free, artificial seawater supplemented with 3% antibiotics–antimycotics solution.
-7. Transfer water containing detached tissue and cells to a conical tube (?SIZE?) and centrifuge at 1200 rpm for 3 minutes.  A pellet should be visible at the bottom of the conical tube.
-8. Aspirate the supernatant  and add x mL of ?liberase? to resuspend the pellet.
+  - b. Incubate nubbin at 25°C for 3 hours in shaking incubator (rpm 30), in filtered, calcium and magnesium free, artificial seawater supplemented with 3% [antibiotics-antimycotics](https://www.thermofisher.com/order/catalog/product/15240062#/15240062) solution.
+7. Transfer water containing detached tissue and cells to a conical tube (15 mL) and centrifuge at 1200 rpm for 3 minutes.  A pellet should be visible at the bottom of the conical tube.
+8. Aspirate the supernatant  and add 2 mL of Liberase to resuspend the pellet.
+  - a. Liberase TM 2 x 5 mg (Millipore Sigma cat. no. 5401119001) – contains a blend of Collagenase I and Collagenase II and medium concentration of Thermolysin, a non-clostridial neutral protease. Reconstitute lyophilized enzyme (5mg) in 2 mL filtered artificial seawater to produce working solution with concentration of 2.5 mg/mL liberase.
+  - b. Liberase TM was selected versus Liberase DL because observation of tissue balls was not reported, suggesting cells remained dispersed after dissociation.
 9. Incubate the resuspended cell mixture for 3 days at 25°C then check for cell separation.  If not completely digested, incubate for another 5 minutes.
 10. Add 3 mL of coral cell media to neutralize trypsin then centrifuge cells at 1200 rpm for 3 minutes.
 11. Aspirate the supernatant and resuspend with 5 mL of coral cell culture media.
@@ -71,6 +73,6 @@ B. <a name="Protocol"></a> **Protocol**
 17. Securely cap Eppendorf tube and dispose of trypan blue dyed cell suspension into biohazard waste.
 
 C. <a name="References"></a> **References**
-  i. [Lecointe et al 2013](https://link.springer.com/content/pdf/10.1007/s10616-013-9562-6.pdf)
-  ii. Antibiotic option in part 8.... [Helman et al 2008 PNAS](https://www.pnas.org/content/105/1/54)
-  iii. Mechanical scraping option in part 8... [Domart-Coulon et al. 2011](https://www.pnas.org/content/98/21/11885.short)
+  - i. [Lecointe et al 2013](https://link.springer.com/content/pdf/10.1007/s10616-013-9562-6.pdf)
+  - ii. Antibiotic option in part 8.... [Helman et al 2008 PNAS](https://www.pnas.org/content/105/1/54)
+  - iii. Mechanical scraping option in part 8... [Domart-Coulon et al. 2011](https://www.pnas.org/content/98/21/11885.short)

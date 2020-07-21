@@ -13,27 +13,26 @@ projects: Putnam Lab, Lewinski Lab, Synthetic Coral
 Original: 220200715  
 Last Revised: 20200721  
 
-Contents  
+## Table of Contents  
 - [**Materials**](#Materials)    
 - [**Protocol**](#Protocol)  
 - [**References**](#References)  
 
 A. <a name="Materials"></a> **Materials**
-
-    -   70% ethanol
-    -   Scissors
-    -   Medical grade toenail clippers
-    -   Sterile filtered artificial seawater (regular and CaMg free)
-    -   Antibiotics-antimycotics solution [Thermofisher](https://www.thermofisher.com/order/catalog/product/15240062#/15240062)
-    -   Sterile plastic petri dish
-    -   Scraper tool (surgical hook, sterile scalpel, toothbrush, paintbrush)
-    -   Conical tube (15 mL)
-    -   Centrifuge (can reach 1200 rpm)
-    -   Shaking incubator (25 C, 30 rpm)
-    -   Pipette (P200, P20)
-    -   Trypan blue stain
-    -   Hemocytometer
-    -   Eppendorf tube
+  - 70% ethanol
+  - Scissors
+  - Medical grade toenail clippers
+  - Sterile filtered artificial seawater (regular and CaMg free)
+  - [Antibiotics-antimycotics solution Thermofisher](https://www.thermofisher.com/order/catalog/product/15240062#/15240062)
+  - Sterile plastic petri dish
+  - Scraper tool (surgical hook, sterile scalpel, toothbrush, paintbrush)
+  - Conical tube (15 mL)
+  - Centrifuge (can reach 1200 rpm)
+  - Shaking incubator (25 C, 30 rpm)
+  - Pipette (P200, P20)
+  - Trypan blue stain
+  - Hemocytometer
+  - Eppendorf tube
 
 B. <a name="Protocol"></a> **Protocol**
 
