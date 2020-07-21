@@ -73,6 +73,5 @@ B. <a name="Protocol"></a> **Protocol**
 17. Securely cap Eppendorf tube and dispose of trypan blue dyed cell suspension into biohazard waste.
 
 C. <a name="References"></a> **References**
-
     1.  Antibiotic option in part 8.... [Helman et al 2008 PNAS](https://www.pnas.org/content/105/1/54)
-    2. Mechanical scraping option in part 8... [Domart-Coulon et al. 2011](https://www.pnas.org/content/98/21/11885.short)
+    2.  Mechanical scraping option in part 8... [Domart-Coulon et al. 2011](https://www.pnas.org/content/98/21/11885.short)
