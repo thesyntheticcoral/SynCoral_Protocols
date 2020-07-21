@@ -10,7 +10,7 @@ projects: Putnam Lab, Lewinski Lab, Synthetic Coral
 # Standard protocol for determining cnidarian cell yield and viability using Trypsin digestion
 
 Original: 220200715  
-Last Revised: 20200716  
+Last Revised: 20200721  
 
 Contents  
 - [**Materials**](#Materials)    
@@ -18,21 +18,23 @@ Contents
 - [**References**](#References)  
 
 A. <a name="Materials"></a> **Materials**
-    - 70% ethanol
-    - Scissors
-    - Medical grade toenail clippers
-    - Sterile filtered artificial seawater (regular and CaMg free)
-    - antibiotics-antimycotics solution
-    - Trypsin solution
-    - Sterile plastic petri dish
-    - Scraper tool (surgical hook, sterile scalpel, toothbrush, paintbrush)
-    - Conical tube (?15 mL?)
-    - Centrifuge (can reach 1200 rpm)
-    - Shaking incubator (25 C, 30 rpm)
-    - Pipette (P200, P20)
-    - Trypan blue stain
-    - Hemocytometer
-    - Eppendorf tube
+
+    -   70% ethanol
+    -   Scissors
+    -   Medical grade toenail clippers
+    -   Sterile filtered artificial seawater (regular and CaMg free)
+    -   antibiotics-antimycotics solution [Thermofisher](https://www.thermofisher.com/order/catalog/product/15240062#/15240062)
+    -   HEPES [Thermofisher](https://www.thermofisher.com/us/en/home/life-science/cell-culture/mammalian-cell-culture/reagents/hepes.html)
+    -   Trypsin solution
+    -   Sterile plastic petri dish
+    -   Scraper tool (surgical hook, sterile scalpel, toothbrush, paintbrush)
+    -   Conical tube (15 mL)
+    -   Centrifuge (can reach 1200 rpm)
+    -   Shaking incubator (25 C, 30 rpm)
+    -   Pipette (P200, P20)
+    -   Trypan blue stain
+    -   Hemocytometer
+    -   Eppendorf tube
 
 B. <a name="Protocol"></a> **Protocol**
 
@@ -44,11 +46,11 @@ B. <a name="Protocol"></a> **Protocol**
 6. Either
   - a. Mechanically scrape nubbin using a sterile scalpel or surgical hook.
 	- Or
-  - b. Incubate nubbin at 25°C for 3 hours in shaking incubator (rpm 30), in filtered, calcium and magnesium free, artificial seawater supplemented with 3% antibiotics–antimycotics solution.
-7. Transfer water containing detached tissue and cells to a conical tube (?SIZE?) and centrifuge at 1200 rpm for 3 minutes.  A pellet should be visible at the bottom of the conical tube.
+  - b. Incubate nubbin at 25°C for 3 hours in shaking incubator (rpm 30), in filtered, calcium and magnesium free, artificial seawater supplemented with 3% [antibiotics-antimycotics](https://www.thermofisher.com/order/catalog/product/15240062#/15240062) solution.
+7. Transfer water containing detached tissue and cells to a conical tube (15 mL) and centrifuge at 1200 rpm for 3 minutes.  A pellet should be visible at the bottom of the conical tube.
 8. Aspirate the supernatant  and add 2 mL of trypsin to resuspend the pellet.
-  - a. NOTE: trypsin solution: 1 mL of 0.25% trypsin stock solution + 1 mL of filtered artificial seawater (no HEPES) to make 0.125% trypsin solution. 1 mL of 0.05% trypsin stock solution + 1 mL of filtered artificial seawater (no HEPES) to make 0.025% trypsin solution.
-9. Incubate the resuspended cell mixture for 5 minutes at 25°C then check for cell separation.  If not completely digested, incubate for another 5 minutes.
+  - a. NOTE: trypsin solution: 1 mL of 0.25% trypsin stock solution + 1 mL of filtered artificial seawater (no [HEPES](https://www.thermofisher.com/us/en/home/life-science/cell-culture/mammalian-cell-culture/reagents/hepes.html)) to make 0.125% trypsin solution. 1 mL of 0.05% trypsin stock solution + 1 mL of filtered artificial seawater (no [HEPES]https://www.thermofisher.com/us/en/home/life-science/cell-culture/mammalian-cell-culture/reagents/hepes.html) to make 0.025% trypsin solution.
+9. Incubate the resuspended cell mixture for 5 minutes at 25°C then check for cell separation (e.g. primarily individual cells in suspension, little to no large cell aggregates).  If not completely digested, incubate for another 5 minutes.
 10. Add 3 mL of coral cell media to neutralize trypsin then centrifuge cells at 1200 rpm for 3 minutes.
 11. Aspirate the supernatant and resuspend with 5 mL of coral cell culture media.
 12. Transfer 100 uL of the cell suspension to an Eppendorf tube and add 10 uL of trypan blue stain.  Mix the cell suspension with the dye.
@@ -59,8 +61,8 @@ B. <a name="Protocol"></a> **Protocol**
 
 | Cell type | Total count | Dead count |
 | --- | --- | --- |
-| Algae | --- | --- |
-| Coral | --- | --- |
+| Algae |   |     |
+| Coral |   |     |
 
 16. Calculate the cell solution concentration. C = c/d/A*f
   - C = concentration (cells/mL)
