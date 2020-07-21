@@ -24,7 +24,7 @@ A. <a name="Materials"></a> **Materials**
     -   Scissors
     -   Medical grade toenail clippers
     -   Sterile filtered artificial seawater (regular and CaMg free)
-    -   [Anti-Anti](https://www.thermofisher.com/order/catalog/product/15240062#/15240062)
+    -   Anti-anti [Thermofisher](https://www.thermofisher.com/order/catalog/product/15240062#/15240062)
     -   Sterile plastic petri dish
     -   Scraper tool (surgical hook, sterile scalpel, toothbrush, paintbrush)
     -   Conical tube (15 mL)
