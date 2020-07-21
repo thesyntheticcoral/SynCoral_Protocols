@@ -19,7 +19,6 @@ Contents
 - [**References**](#References)  
 
 A. <a name="Materials"></a> **Materials**
-    -  DI water
 
     -   70% ethanol
     -   Scissors
