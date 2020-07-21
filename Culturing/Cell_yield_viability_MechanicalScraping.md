@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Cell yield and viability protocol via Mechanical scraping
