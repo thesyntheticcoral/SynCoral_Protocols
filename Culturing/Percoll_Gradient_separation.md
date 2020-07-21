@@ -27,7 +27,7 @@ A. <a name="Materials"></a> **Materials**
   - Centrifuge with swing bucket rotor (needs to reach 1460 rpm)
 
 B. <a name="Protocol"></a> **Protocol**
-1. Prepare 100 (no mixing), 90, 80, 70, 60, 50, 40, 30, 20, 10, 5% Percoll solutions by mixing 100% Percoll with the appropriate volume of filtered artificial seawater in individual Eppendorf or 15 mL conical tubes.
+1. Prepare 100 (no mixing), 90, 80, 70, 60, 50, 40, 30, 20, 10, and 5% Percoll solutions by mixing 100% Percoll with the appropriate volume of filtered artificial seawater in individual Eppendorf or 15 mL conical tubes.
 2. Refrigerate each of the eleven solutions (5-100%) for at least 30 minutes before construction of the Percoll gradient.
 3. In a 15 mL conical tube, add 1 mL per Percoll concentration starting with 100% and working towards 10%.
 4. Using a P1000 micropipette, Add 2 mL of coral cell sample to the top of the Percoll gradient.
@@ -37,4 +37,5 @@ B. <a name="Protocol"></a> **Protocol**
 
 
 C. <a name="References"></a> **References**
-    - i. [Downs et al 2010 Ecotox](https://pubmed.ncbi.nlm.nih.gov/19757033/)
+
+  i. [Downs et al 2010 Ecotox](https://pubmed.ncbi.nlm.nih.gov/19757033/)
