@@ -20,19 +20,19 @@ Contents
 - [**References**](#References)  
 
 A. <a name="Materials"></a> **Materials**
-      - 70% ethanol
-      - Scissors
-      - Medical grade toenail clippers
-      - Sterile filtered artificial seawater (regular and CaMg free)
-      - [Anti-Anti](https://www.thermofisher.com/order/catalog/product/15240062#/15240062)
-      - Sterile plastic petri dish
-      - Scraper tool (surgical hook, sterile scalpel, toothbrush, paintbrush)
-      - Conical tube (15 mL)
-      - Centrifuge (can reach 1200 rpm)
-      - Pipette (P200, P20)
-      - Trypan blue stain
-      - Hemocytometer
-      - Eppendorf tube
+      -   70% ethanol
+      -   Scissors
+      -   Medical grade toenail clippers
+      -   Sterile filtered artificial seawater (regular and CaMg free)
+      -   [Anti-Anti](https://www.thermofisher.com/order/catalog/product/15240062#/15240062)
+      -   Sterile plastic petri dish
+      -   Scraper tool (surgical hook, sterile scalpel, toothbrush, paintbrush)
+      -   Conical tube (15 mL)
+      -   Centrifuge (can reach 1200 rpm)
+      -   Pipette (P200, P20)
+      -   Trypan blue stain
+      -   Hemocytometer
+      -   Eppendorf tube
 
 B. <a name="Protocol"></a> **Protocol**
 
@@ -56,8 +56,8 @@ B. <a name="Protocol"></a> **Protocol**
 12. Report the following data:
 | Cell type | Total count | Dead count |
 | --- | --- | --- |
-| Algae |||
-| Coral |||
+| Algae |   |     |
+| Coral |   |     |
 
 13. Calculate the cell solution concentration. C = c/d/A*f
   - C = concentration (cells/mL)
