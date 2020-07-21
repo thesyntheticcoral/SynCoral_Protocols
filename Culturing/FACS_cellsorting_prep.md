@@ -30,7 +30,9 @@ A. <a name="Materials"></a> **Materials**
   - 1% paraformaldehyde
   - hemocytometer
 
+
 B. <a name="Protocol"></a> **Protocol**
+####Cell Preparation for Fluorescence-Activated Cell Sorting (FACS):
   1. After harvesting coral cells, Transfer media containing cells to a 15 mL conical tube and centrifuge at 1200 rpm for 3 minutes to pellet cells.
   2. Remove supernatant and resuspend in 3 mL of DAPI working solution.
     - a. DAPI 1 mg (Millipore Sigma cat. no. D9542); Stock solution = 1 mg/mL DAPI in DI water; Working solution = 1 μg/ml DAPI in PBS
@@ -42,11 +44,12 @@ B. <a name="Protocol"></a> **Protocol**
   6. Store FACS tubes at room temperature and take to flow cytometry core for immediate analysis (within 2 hours).
     - a. NOTE: If you do not need viable cells, can also fix cells in 1% paraformaldehyde in PBS and store at 4ºC for up to 1 week.
 
-B. Cell Sorting using FACS (based on Rosenthal et al. BMC Cell Biology 2017 and assistance from Rebecca Martin and Julie Farnsworth):
+####Cell Sorting using FACS (based on Rosenthal et al. BMC Cell Biology 2017 and assistance from Rebecca Martin and Julie Farnsworth):
   1. NOTE: FACS machine used: BD FACSAria™ II High-Speed Cell Sorter with BD FACSDiva software.
   2. Initial gating based on forward (FSC) and side scattered (SSC) light to focus on cell signal versus cell debris.
   3. Channels used at VCU Flow Cytometry core include Autofluorescence 640nm (780/60BP) versus DAPI 405nm (450/50BP) and Autofluorescence 488 (710/50BP) versus DAPI 405nm (450/50BP).
   4. Channels used by Rosenthal et al. include DAPI stain 405nm (450/50BP) versus Autofluorescence 633nm(755LP 780/60BP) and Autofluorescence 488nm(755LP 780/60BP).
+
 
 
 4. <a name="References"></a> **References**
