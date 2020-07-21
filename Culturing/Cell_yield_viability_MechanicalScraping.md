@@ -19,6 +19,7 @@ Contents
 - [**References**](#References)  
 
 A. <a name="Materials"></a> **Materials**
+    -  forceps
       -   70% ethanol
       -   Scissors
       -   Medical grade toenail clippers
