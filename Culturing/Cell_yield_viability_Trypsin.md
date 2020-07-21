@@ -74,5 +74,5 @@ B. <a name="Protocol"></a> **Protocol**
 
 C. <a name="References"></a> **References**
 
-    i.    Antibiotic option in part 8.... [Helman et al 2008 PNAS](https://www.pnas.org/content/105/1/54)
-    ii.   Mechanical scraping option in part 8... [Domart-Coulon et al. 2011](https://www.pnas.org/content/98/21/11885.short)
+  i.    Antibiotic option in part 8.... [Helman et al 2008 PNAS](https://www.pnas.org/content/105/1/54)
+  ii.   Mechanical scraping option in part 8... [Domart-Coulon et al. 2011](https://www.pnas.org/content/98/21/11885.short)
