@@ -122,10 +122,10 @@ Last Revised: 20200728
 ## need to determine agreed upon culture conditions (light, temperature, light:dark cycle) time points for incubation
 **E.** <a name="Viability"></a> **Viability**  
 9. Transfer 100 uL of the cell suspension to an Eppendorf tube and add 10 uL of trypan blue stain.  Mix the cell suspension with the dye.
-    -   a. NOTE: Trypan blue is a mutagen – handle with care and dispose contaminated items in biohazard waste!
-10. Transfer 10 uL of the cell suspension to a hemocytometer and count the number of algae cells and coral cells noting the number of each cell type that stain blue.
-11. Count at least three 1 mm x 1 mm squares per hemocytometer side to obtain six measurements in one experiment.
-12. Report the following data:
+  -   a. NOTE: Trypan blue is a mutagen – handle with care and dispose contaminated items in biohazard waste!  
+10. Transfer 10 uL of the cell suspension to a hemocytometer and count the number of algae cells and coral cells noting the number of each cell type that stain blue.  
+11. Count at least three 1 mm x 1 mm squares per hemocytometer side to obtain six measurements in one experiment.  
+12. Report the following data:  
 
 | Cell type | Total count | Dead count |
 | --- | --- | --- |
