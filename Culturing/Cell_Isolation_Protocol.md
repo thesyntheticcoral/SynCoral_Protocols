@@ -140,7 +140,7 @@ Last Revised: 20200728
   - f = conversion factor (1000 mm^3/mL)
 14. Securely cap Eppendorf tube and dispose of trypan blue dyed cell suspension into biohazard waste.
 
-**C.** <a name="References"></a> **References**
+**F.** <a name="References"></a> **References**
 
   i. [Helman et al. 2008 PNAS](https://www.pnas.org/content/105/1/54)  
 	ii. [Domart-Coulon et al. 2011 PNAS](https://www.pnas.org/content/98/21/11885.short)  
