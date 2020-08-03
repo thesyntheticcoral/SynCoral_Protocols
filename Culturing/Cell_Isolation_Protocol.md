@@ -25,11 +25,14 @@ Last Revised: 20200728
 	- [**Antibiotic-Antimycotic**](#Antibiotic-Antimycotic)     
 	- [**Trypsin**](#Trypsin)
 	- [**Liberase**](#Liberase)
+- [**Incubation-Conditions**](#Incubation-Conditions)
 - [**Viability**](Viability)
 - [**References**](#References)  
 
 **A.** <a name="Materials"></a> **Materials**
-  - 70% ethanol  
+  - Carboy
+	- Distilled water
+	- 70% ethanol  
   - Scissors  
   - Medical grade toenail clippers  
   - Toothbrush  
@@ -49,12 +52,19 @@ Last Revised: 20200728
   - Eppendorf tube
 
 **B.** <a name="Coral-Culture-Media-Reagents"></a> **Coral-Culture-Media-Reagents**  
-  - [15 mL Dulbecco's Modified Eagle Medium (DMEM)]()   
-  - [10 mL Fetal Bovine Serum (FBS)]()   
+  - 15 mL [Dulbecco's Modified Eagle Medium (DMEM) Fisher scientific #SH3024301](https://www.fishersci.com/shop/products/hyclone-classical-liquid-media-dulbeccos-modified-eagles-medium-dmem-high-with-l-glutamine-sodium-pyruvate-500ml/sh3024301)   
+  - 10 mL [Fetal Bovine Serum (FBS) Thermofisher Scientific #26140087](https://www.thermofisher.com/order/catalog/product/26140087#/26140087)   
   - [Antibiotics-antimycotics solution Thermofisher #1524006](https://www.thermofisher.com/order/catalog/product/15240062#/15240062)   
-  - [0.5 mL Gentamicin]()   
-  - [74 mL artificial seawater]()  
-	-  NOTE: Filter all ingredients using a Corning vacuum filter/storage bottle system with 0.2 μm pore size membrane.
+  - 0.5 mL [Gentamicin Thermofisher #15710064](https://www.thermofisher.com/order/catalog/product/15710064#/15710064)   
+  - 74 mL artificial seawater (recipe below)
+	- NOTE: Filter all ingredients using a Corning vacuum filter/storage bottle system with 0.2 μm pore size membrane.
+
+	**How to make bulk artificial seawater**
+	- Weigh out 143g of salt from either [Tropic Marin® BIO-ACTIF Sea Salt](https://www.tropic-marin.com/meersalze/bio-actif-meersalz/?lang=en) or [Red Sea Fish Red Sea Salt](https://www.redseafish.com/red-sea-salts/red-sea-salt/)
+	- Add salt to Carboy
+	- Add 1 gal of distilled water to carboy (with salt)
+	- Shake Carboy with salt and distilled water thoroughly
+	- NOTE: salt needs to be dissolved before use
 
 **C.** <a name="Isolation"></a> **Isolation**
 
@@ -104,6 +114,7 @@ Last Revised: 20200728
 	- NOTE: A pellet should be visible at the bottom of the conical tube.
 - **6.2.2** Aspirate the supernatant  and add 2 mL of [Trypsin fishersci #25300054](https://www.fishersci.com/shop/products/trypsin-05-edta/25300054) to resuspend the pellet.
   - NOTE: for different trypsin concentrations: 1 mL of 0.25% trypsin stock solution + 1 mL of filtered artificial seawater (no [HEPES Thermofisher #15630106](https://www.thermofisher.com/us/en/home/life-science/cell-culture/mammalian-cell-culture/reagents/hepes.html)) to make 0.125% trypsin solution. 1 mL of 0.05% trypsin stock solution + 1 mL of filtered artificial seawater (no [HEPES Thermofisher #15630106](https://www.thermofisher.com/us/en/home/life-science/cell-culture/mammalian-cell-culture/reagents/hepes.html)) to make 0.025% trypsin solution.
+	- NOTE: Both [trypsin] work and we need to measure the cell concentrations harvested resulting from the different concentrations.
 - **6.2.3** Incubate the resuspended cell mixture for 5 minutes at 25°C then check for cell separation (e.g. primarily individual cells in suspension, little to no large cell aggregates).  If not completely digested, incubate for another 5 minutes.
 - **6.2.4** Add 3 mL of coral cell media to neutralize trypsin then centrifuge cells at 1200 rpm for 3 minutes.
 - **6.2.5** Aspirate the supernatant and resuspend with 5 mL of coral cell culture media.  
@@ -119,8 +130,13 @@ Last Revised: 20200728
 - **6.3.5** Aspirate the supernatant and resuspend with 5 mL of coral cell culture media.
 	- NOTE: Lewinski lab coral culture media recipe here: [**Coral-Culture-Media-Reagents**](#Coral-Culture-Media-Reagents)
 
-## need to determine agreed upon culture conditions (light, temperature, light:dark cycle) time points for incubation
-**E.** <a name="Viability"></a> **Viability**  
+**E.** <a name="Incubation-Conditions"></a> **Incubation-Conditions**  
+- Temperature: 25C using a hotplate with a beaker of water  
+  - NOTE: keep relative humidity above 50% but below 80%. Need to modify procedure to control RH in small plexiglass incubator
+- Light levels: TBD (no initial differences observed with or without light)
+	- NOTE: Can try 24 hr light cycle or 12:12 (light:dark).
+
+**F.** <a name="Viability"></a> **Viability**  
 9. Transfer 100 uL of the cell suspension to an Eppendorf tube and add 10 uL of trypan blue stain.  Mix the cell suspension with the dye.
   -   a. NOTE: Trypan blue is a mutagen – handle with care and dispose contaminated items in biohazard waste!  
 10. Transfer 10 uL of the cell suspension to a hemocytometer and count the number of algae cells and coral cells noting the number of each cell type that stain blue.  
@@ -138,9 +154,10 @@ Last Revised: 20200728
   - d = depth of hemocytometer chamber (0.1 mm)
   - A = area of hemocytometer counted (mm^2)
   - f = conversion factor (1000 mm^3/mL)
+	- NOTE: currently using cell viability (% alive & % dead) for protocol assessment. In the future we could incorporate metrics beyond cell viability (e.g. cell cycle, oxidative stress, DNA damage).
 14. Securely cap Eppendorf tube and dispose of trypan blue dyed cell suspension into biohazard waste.
 
-**F.** <a name="References"></a> **References**
+**G.** <a name="References"></a> **References**
 
   i. [Helman et al. 2008 PNAS](https://www.pnas.org/content/105/1/54)  
 	ii. [Domart-Coulon et al. 2011 PNAS](https://www.pnas.org/content/98/21/11885.short)  
