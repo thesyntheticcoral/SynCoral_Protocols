@@ -47,23 +47,23 @@ Last Revised: 20200728
   - Centrifuge (can reach 1200 rpm)  
   - Shaking incubator (25 C, 30 rpm)  
   -	Pipette (P200, P20)  
-  - Trypan blue stain
+  - [Trypan blue stain Millepore sigma #T8154]
   - Hemocytometer
   - Eppendorf tube
 
 **B.** <a name="Coral-Culture-Media-Reagents"></a> **Coral-Culture-Media-Reagents**  
   - 15 mL [Dulbecco's Modified Eagle Medium (DMEM) Fisher scientific #SH3024301](https://www.fishersci.com/shop/products/hyclone-classical-liquid-media-dulbeccos-modified-eagles-medium-dmem-high-with-l-glutamine-sodium-pyruvate-500ml/sh3024301)   
   - 10 mL [Fetal Bovine Serum (FBS) Thermofisher Scientific #26140087](https://www.thermofisher.com/order/catalog/product/26140087#/26140087)   
-  - [Antibiotics-antimycotics solution Thermofisher #1524006](https://www.thermofisher.com/order/catalog/product/15240062#/15240062)   
+  - 1 mL [Antibiotics-antimycotics solution Thermofisher #1524006](https://www.thermofisher.com/order/catalog/product/15240062#/15240062)   
   - 0.5 mL [Gentamicin Thermofisher #15710064](https://www.thermofisher.com/order/catalog/product/15710064#/15710064)   
   - 74 mL artificial seawater (recipe below)
 	- NOTE: Filter all ingredients using a Corning vacuum filter/storage bottle system with 0.2 μm pore size membrane.
 
-	**How to make bulk artificial seawater**
-	- Weigh out 143g of salt from either [Tropic Marin® BIO-ACTIF Sea Salt](https://www.tropic-marin.com/meersalze/bio-actif-meersalz/?lang=en) or [Red Sea Fish Red Sea Salt](https://www.redseafish.com/red-sea-salts/red-sea-salt/)
-	- Add salt to Carboy
-	- Add 1 gal of distilled water to carboy (with salt)
-	- Shake Carboy with salt and distilled water thoroughly
+**How to make bulk artificial seawater**  
+- Weigh out 143g of salt from either [Tropic Marin® BIO-ACTIF Sea Salt](https://www.tropic-marin.com/meersalze/bio-actif-meersalz/?lang=en) or [Red Sea Fish Red Sea Salt](https://www.redseafish.com/red-sea-salts/red-sea-salt/)  
+- Add salt to Carboy  
+- Add 1 gal of distilled water to carboy (with salt)  
+- Shake Carboy with salt and distilled water thoroughly  
 	- NOTE: salt needs to be dissolved before use
 
 **C.** <a name="Isolation"></a> **Isolation**
