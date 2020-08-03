@@ -11,7 +11,7 @@ projects: Putnam Lab, Lewinski Lab, Synthetic Coral
 #### There are multiple options for isolation and incubation techniques.
 
 Original: 220200715  
-Last Revised: 20200728  
+Last Revised: 20200803  
 
 ## Table of Contents  
 - [**Materials**](#Materials)
@@ -27,6 +27,7 @@ Last Revised: 20200728
 	- [**Liberase**](#Liberase)
 - [**Incubation-Conditions**](#Incubation-Conditions)
 - [**Viability**](Viability)
+- [**General-Notes**](General-Notes)
 - [**References**](#References)  
 
 **A.** <a name="Materials"></a> **Materials**
@@ -47,7 +48,7 @@ Last Revised: 20200728
   - Centrifuge (can reach 1200 rpm)  
   - Shaking incubator (25 C, 30 rpm)  
   -	Pipette (P200, P20)  
-  - [Trypan blue stain Millepore sigma #T8154]
+  - [Trypan blue stain Millepore sigma #T8154](https://www.sigmaaldrich.com/catalog/product/sigma/t8154?lang=en&region=US)
   - Hemocytometer
   - Eppendorf tube
 
@@ -60,9 +61,9 @@ Last Revised: 20200728
 	- NOTE: Filter all ingredients using a Corning vacuum filter/storage bottle system with 0.2 μm pore size membrane.
 
 **How to make bulk artificial seawater**  
-- Weigh out 143g of salt from either [Tropic Marin® BIO-ACTIF Sea Salt](https://www.tropic-marin.com/meersalze/bio-actif-meersalz/?lang=en) or [Red Sea Fish Red Sea Salt](https://www.redseafish.com/red-sea-salts/red-sea-salt/)  
+- Pour out salt from [Reef crystals Reef Salt](https://www.amazon.com/Instant-Ocean-Reef-Crystals-Aquariums/dp/B000HCLNQG/ref=sr_1_1_sspa?crid=RF68CI3H2ZR1&dchild=1&keywords=instant+ocean+reef+crystals&qid=1596466354&s=pet-supplies&sprefix=instant+o%2Cpets%2C169&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFPSFRUQjRUOEhBRk8mZW5jcnlwdGVkSWQ9QTAwOTEzNjgxRTlLNTlCVUg1WUJZJmVuY3J5cHRlZEFkSWQ9QTA5OTYxNDgzMVlTMkJWM1pGWk1OJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=)
 - Add salt to Carboy  
-- Add 1 gal of distilled water to carboy (with salt)  
+- Add 10 gal of distilled water to carboy (with salt)  
 - Shake Carboy with salt and distilled water thoroughly  
 	- NOTE: salt needs to be dissolved before use
 
@@ -80,7 +81,6 @@ Last Revised: 20200728
 - **5.1.2** Transfer water containing detached tissue and cells to a 15 mL conical tube and centrifuge at 1200 rpm for 3 minutes.  A pellet should be visible at the bottom of the conical tube.
 - **5.1.3** Aspirate the supernatant and resuspend with 5 mL of coral cell culture media.
 	 - Lewinski lab coral culture media recipe here: [**Coral-Culture-Media-Reagents**](#Coral-Culture-Media-Reagents)   
-	 - NOTE: When used 1 mL PenStrep, microorganism overgrowth observed on day 2 post-harvest.  
 
 **5.2** <a name="Toothbrush"></a> **Toothbrush**  
 - **5.2.1** Mechanically scrape nubbin using a toothbrush
@@ -88,7 +88,6 @@ Last Revised: 20200728
 - **5.2.2** Transfer water containing detached tissue and cells to a 15 mL conical tube and centrifuge at 1200 rpm for 3 minutes.  A pellet should be visible at the bottom of the conical tube.
 - **5.2.3** Aspirate the supernatant and resuspend with 5 mL of coral cell culture media.
 	 - Lewinski lab coral culture media recipe here: [**Coral-Culture-Media-Reagents**](#Coral-Culture-Media-Reagents)   
-	 - NOTE: When used 1 mL PenStrep, microorganism overgrowth observed on day 2 post-harvest.
 
 **5.3** <a name="Paintbrush"></a> **Paintbrush**  
 - **5.3.1** Mechanically scrape nubbin using a paintbrush
@@ -96,7 +95,6 @@ Last Revised: 20200728
 - **5.3.2** Transfer water containing detached tissue and cells to a 15 mL conical tube and centrifuge at 1200 rpm for 3 minutes.  A pellet should be visible at the bottom of the conical tube.
 - **5.3.3** Aspirate the supernatant and resuspend with 5 mL of coral cell culture media.
 	 - Lewinski lab coral culture media recipe here: [**Coral-Culture-Media-Reagents**](#Coral-Culture-Media-Reagents)   
-	 - NOTE: When used 1 mL PenStrep, microorganism overgrowth observed on day 2 post-harvest.  
 
 **5.4** <a name="Ca-Mg-free-seawater"></a> **Ca-Mg-free-seawater**  
 -	**5.4.1** Incubate nubbin or cells at 25°C for 3 hours in shaking incubator (rpm 30), in filtered, calcium and magnesium free, artificial seawater supplemented with 3% [Antibiotics-antimycotics solution Thermofisher #1524006](https://www.thermofisher.com/order/catalog/product/15240062#/15240062) solution
@@ -157,7 +155,10 @@ Last Revised: 20200728
 	- NOTE: currently using cell viability (% alive & % dead) for protocol assessment. In the future we could incorporate metrics beyond cell viability (e.g. cell cycle, oxidative stress, DNA damage).
 14. Securely cap Eppendorf tube and dispose of trypan blue dyed cell suspension into biohazard waste.
 
-**G.** <a name="References"></a> **References**
+**G.** <a name="General-Notes"></a> **General-Notes**
+- When used 1 mL PenStrep, microorganism overgrowth observed on day 2 post-harvest.  
+
+**H.** <a name="References"></a> **References**
 
   i. [Helman et al. 2008 PNAS](https://www.pnas.org/content/105/1/54)  
 	ii. [Domart-Coulon et al. 2011 PNAS](https://www.pnas.org/content/98/21/11885.short)  
