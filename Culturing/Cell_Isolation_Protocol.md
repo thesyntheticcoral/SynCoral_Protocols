@@ -46,7 +46,9 @@ Last Revised: 20200803
   - [Liberase solution Millipore Sigma #5401119001](https://www.sigmaaldrich.com/catalog/product/roche/libtmro?lang=en&region=US&gclid=Cj0KCQjwpNr4BRDYARIsAADIx9zfc5YGD6_945gvdyfUuAw24tSf-Xyaf-Xb_pm_QNG67XttLhyo7hMaAtpPEALw_wcB)
   - Conical tube (15 mL)  
   - Centrifuge (can reach 1200 rpm)  
-  - Shaking incubator (25 C, 30 rpm)  
+  - Shaking incubator (25 C, 30 rpm)   
+  - Incubator [Thermo Scientific PR505755R Refrigerated Incubator, 20 cu ft, 120 VAC](https://www.coleparmer.com/i/thermo-scientific-pr505755r-refrigerated-incubator-20-cu-ft-120-vac/3935020)
+  - Hotplate  
   -	Pipette (P200, P20)  
   - [Trypan blue stain Millepore sigma #T8154](https://www.sigmaaldrich.com/catalog/product/sigma/t8154?lang=en&region=US)
   - Hemocytometer
@@ -157,6 +159,8 @@ Last Revised: 20200803
 
 **G.** <a name="General-Notes"></a> **General-Notes**
 - When used 1 mL PenStrep, microorganism overgrowth observed on day 2 post-harvest.  
+- When scraping off cells and can use original skeleton and place in media. sometimes has less gunk.  
+- other relevant Antibiotics: Gentamicin sulfate (Sigma, Cat# G1914), Neomycin sulfate (Sigma, Cat# PHR1491), Tobramycin sulfate (Sigma, Cat# T1783), Kanamycin sulfate (Sigma, Cat# 60615), Levofloxacin (Sigma, Cat# 28266-10G-F), Cefepime hydrochloride (Cat#PHR1763-1G, sigma).
 
 **H.** <a name="References"></a> **References**
 
