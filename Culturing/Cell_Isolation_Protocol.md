@@ -47,7 +47,9 @@ Last Revised: 20200803
   - Conical tube (15 mL)  
   - Centrifuge (can reach 1200 rpm)  
   - Shaking incubator (25 C, 30 rpm)   
-  - Incubator [Thermo Scientific PR505755R Refrigerated Incubator, 20 cu ft, 120 VAC](https://www.coleparmer.com/i/thermo-scientific-pr505755r-refrigerated-incubator-20-cu-ft-120-vac/3935020)
+  - Incubator [Thermo Scientific PR505755R Refrigerated Incubator, 20 cu ft, 120 VAC](https://www.coleparmer.com/i/thermo-scientific-pr505755r-refrigerated-incubator-20-cu-ft-120-vac/3935020)  
+  - [Aqua Illumination Prime 16HD light](https://www.aquaillumination.com/products/prime)  
+  - [Neptune Systems New APEX Wi-Fi Controller System #NS1191](https://www.marinedepot.com/neptune-systems-new-apex-wi-fi-controller-system)
   - Hotplate  
   -	Pipette (P200, P20)  
   - [Trypan blue stain Millepore sigma #T8154](https://www.sigmaaldrich.com/catalog/product/sigma/t8154?lang=en&region=US)
@@ -134,6 +136,7 @@ Last Revised: 20200803
 - Temperature: 25C using a hotplate with a beaker of water  
   - NOTE: keep relative humidity above 50% but below 80%. Need to modify procedure to control RH in small plexiglass incubator
 - Light levels: TBD (no initial differences observed with or without light)
+	- NOTE: use [Aqua Illumination Prime 16HD light](https://www.aquaillumination.com/products/prime) and monitor conditions using [Neptune Systems New APEX Wi-Fi Controller System #NS1191](https://www.marinedepot.com/neptune-systems-new-apex-wi-fi-controller-system)
 	- NOTE: Can try 24 hr light cycle or 12:12 (light:dark).
 
 **F.** <a name="Viability"></a> **Viability**  
