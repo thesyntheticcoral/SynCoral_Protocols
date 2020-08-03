@@ -15,12 +15,11 @@ Last Revised: 20200803
 
 ## Table of Contents  
 - [**Materials**](#Materials)
-- [**Coral-Culture-Media-Reagents**](#Coral-Culture-Media-Reagents)
+- [**Culture-Media-Reagents-And-Recipes**](#Culture-Media-Reagents-And-Recipes)
 - [**Isolation**](#Isolation)
 	- [**Mechanical Scraping**](#MechanicalScraping)     
 	- [**Toothbrush**](#Toothbrush)
 	- [**Paintbrush**](#Paintbrush)
-	- [**Ca-Mg free seawater**](#Ca-Mg-free-seawater)
 - [**Incubation**](Incubation)    
 	- [**Trypsin**](#Trypsin)
 	- [**Trypsin-and-Collagenase**](#Trypsin-and-Collagenase)
@@ -30,7 +29,7 @@ Last Revised: 20200803
 - [**References**](#References)  
 
 **A.** <a name="Materials"></a> **Materials**
-  - Carboy
+  - 20 gallon Carboy
 	- Distilled water
 	- 70% ethanol  
   - Scissors  
@@ -49,13 +48,16 @@ Last Revised: 20200803
   - Incubator [Thermo Scientific PR505755R Refrigerated Incubator, 20 cu ft, 120 VAC](https://www.coleparmer.com/i/thermo-scientific-pr505755r-refrigerated-incubator-20-cu-ft-120-vac/3935020)  
   - [Aqua Illumination Prime 16HD light](https://www.aquaillumination.com/products/prime)  
   - [Neptune Systems New APEX Wi-Fi Controller System #NS1191](https://www.marinedepot.com/neptune-systems-new-apex-wi-fi-controller-system)
+  - Relative humidity meter, example [ThermoPro TP55 Digital Hygrometer Indoor Thermometer Humidity Gauge with Jumbo Touchscreen and Backlight Temperature Humidity Monitor](https://www.amazon.com/gp/product/B06XTPTG1J/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
   - Hotplate  
   -	Pipette (P200, P20)  
   - [Trypan blue stain Millepore sigma #T8154](https://www.sigmaaldrich.com/catalog/product/sigma/t8154?lang=en&region=US)
   - Hemocytometer
   - Eppendorf tube
 
-**B.** <a name="Coral-Culture-Media-Reagents"></a> **Coral-Culture-Media-Reagents**  
+**B.** <a name="Culture-Media-Reagents-And-Recipes"></a> **Culture-Media-Reagents-And-Recipes**  
+
+**How to make coral culture media**  
   - 15 mL [Dulbecco's Modified Eagle Medium (DMEM) Fisher scientific #SH3024301](https://www.fishersci.com/shop/products/hyclone-classical-liquid-media-dulbeccos-modified-eagles-medium-dmem-high-with-l-glutamine-sodium-pyruvate-500ml/sh3024301)   
   - 10 mL [Fetal Bovine Serum (FBS) Thermofisher Scientific #26140087](https://www.thermofisher.com/order/catalog/product/26140087#/26140087)   
   - 1 mL [Antibiotics-antimycotics solution Thermofisher #1524006](https://www.thermofisher.com/order/catalog/product/15240062#/15240062)   
@@ -64,11 +66,18 @@ Last Revised: 20200803
 	- NOTE: Filter all ingredients using a Corning vacuum filter/storage bottle system with 0.2 μm pore size membrane.
 
 **How to make bulk artificial seawater**  
-- Pour out salt from [Reef crystals Reef Salt](https://www.amazon.com/Instant-Ocean-Reef-Crystals-Aquariums/dp/B000HCLNQG/ref=sr_1_1_sspa?crid=RF68CI3H2ZR1&dchild=1&keywords=instant+ocean+reef+crystals&qid=1596466354&s=pet-supplies&sprefix=instant+o%2Cpets%2C169&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFPSFRUQjRUOEhBRk8mZW5jcnlwdGVkSWQ9QTAwOTEzNjgxRTlLNTlCVUg1WUJZJmVuY3J5cHRlZEFkSWQ9QTA5OTYxNDgzMVlTMkJWM1pGWk1OJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=)
-- Add salt to Carboy  
+- Pour out salt from [Instant Ocean Reef crystals Reef Salt](https://www.amazon.com/Instant-Ocean-Reef-Crystals-Aquariums/dp/B000HCLNQG/ref=sr_1_1_sspa?crid=RF68CI3H2ZR1&dchild=1&keywords=instant+ocean+reef+crystals&qid=1596466354&s=pet-supplies&sprefix=instant+o%2Cpets%2C169&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFPSFRUQjRUOEhBRk8mZW5jcnlwdGVkSWQ9QTAwOTEzNjgxRTlLNTlCVUg1WUJZJmVuY3J5cHRlZEFkSWQ9QTA5OTYxNDgzMVlTMkJWM1pGWk1OJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=)
+- Add salt to 20 gallon Carboy  
 - Add 10 gal of distilled water to carboy (with salt)  
 - Shake Carboy with salt and distilled water thoroughly  
 	- NOTE: salt needs to be dissolved before use
+
+**How to make CaMg free seawater**  
+Lewinski Lab calcium-magnesium free artificial seawater mixture:  
+-	23 g/L NaCl  
+- 0.763 g/L KCl
+- 3 g/L NaSO4
+- 0.25 g/L NaHCO3
 
 **C.** <a name="Isolation"></a> **Isolation**
 
