@@ -157,12 +157,12 @@ Last Revised: 20200803
   - d = depth of hemocytometer chamber (0.1 mm)
   - A = area of hemocytometer counted (mm^2)
   - f = conversion factor (1000 mm^3/mL)
-	- NOTE: currently using cell viability (% alive & % dead) for protocol assessment. In the future we could incorporate metrics beyond cell viability (e.g. cell cycle, oxidative stress, DNA damage).
 14. Securely cap Eppendorf tube and dispose of trypan blue dyed cell suspension into biohazard waste.
 
 **G.** <a name="General-Notes"></a> **General-Notes**
 - When used 1 mL PenStrep, microorganism overgrowth observed on day 2 post-harvest.  
-- When scraping off cells and can use original skeleton and place in media. sometimes has less gunk.  
+- When scraping off cells and can use original skeleton and place in media. sometimes has less gunk.
+- NOTE: currently using cell viability (% alive & % dead) for protocol assessment. In the future we could incorporate metrics beyond cell viability (e.g. cell cycle, oxidative stress, DNA damage).
 - other relevant Antibiotics: Gentamicin sulfate (Sigma, Cat# G1914), Neomycin sulfate (Sigma, Cat# PHR1491), Tobramycin sulfate (Sigma, Cat# T1783), Kanamycin sulfate (Sigma, Cat# 60615), Levofloxacin (Sigma, Cat# 28266-10G-F), Cefepime hydrochloride (Cat#PHR1763-1G, sigma).
 
 **H.** <a name="References"></a> **References**
