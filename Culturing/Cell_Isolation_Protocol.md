@@ -32,8 +32,8 @@ Last Revised: 20200803
   - 20 gallon Carboy
 	- Distilled water
 	- 70% ethanol  
-  - Scissors  
-  - Medical grade toenail clippers  
+  - Medical grade toenail clippers
+  - Tweezers
   - Toothbrush  
   - Paintbrush  
   - Scraper tool (surgical hook, sterile scalpel)  
@@ -81,18 +81,21 @@ Lewinski Lab calcium-magnesium free artificial seawater mixture:
 
 **C.** <a name="Isolation"></a> **Isolation**
 
-1. Disinfect scissors with 70% ethanol.
-2. Remove coral fragment from tank and place in glass crystallizing dish.
+1. Disinfect clippers and tweezers with 70% ethanol.
+2. Remove coral fragment from tank and place in glass crystallizing dish containing tank water.
 3. Cut coral nubbin (0.3-0.5 cm long) from fragment using sterilized clippers.
-4. Bring nubbin into the biosafety cabinet and rinse nubbin 3 times with sterile filtered artificial seawater.
-5. Place nubbin in sterile plastic petri dish containing sterile filtered calcium-magnesium free artificial seawater.
+4. Using tweezers, carefully bring nubbin into the biosafety cabinet and place in a sterile plastic petri dish.
+5. Rinse nubbin 3 times with sterile filtered artificial seawater in the petri dish.
+5. Transfer rinsed nubbin to a different sterile plastic petri dish containing 5 mL of sterile filtered calcium-magnesium free artificial seawater.
 
 **5.1** <a name="MechanicalScraping"></a> **Mechanical Scraping**  
 - **5.1.1** Mechanically scrape nubbin using a sterile scalpel or surgical hook.
 	- a. NOTE: Need to try scraping polyps only first then coenosarc as a means of separating cell types.  
-- **5.1.2** Transfer water containing detached tissue and cells to a 15 mL conical tube and centrifuge at 1200 rpm for 3 minutes.  A pellet should be visible at the bottom of the conical tube.
+	- b. NOTE: Mechanical scrapping does not remove all tissue.  Need to try enzymatic digestion of residual tissue from skeleton.
+- **5.1.2** Transfer water containing detached tissue and cells to a 15 mL conical tube.  Rinse petri dish with 5 mL of sterile filtered calcium-magnesium free artificial seawater to collect any tissue and cells that did not transfer. Centrifuge at 1200 rpm for 3 minutes.  A pellet should be visible at the bottom of the conical tube.
 - **5.1.3** Aspirate the supernatant and resuspend with 5 mL of coral cell culture media.
-	 - Lewinski lab coral culture media recipe here: [**Coral-Culture-Media-Reagents**](#Coral-Culture-Media-Reagents)   
+	- a. NOTE: If counting the collected cells, use a smaller volume (2 mL) to achieve a higher cell concentration for counting.
+	- Lewinski lab coral culture media recipe here: [**Coral-Culture-Media-Reagents**](#Coral-Culture-Media-Reagents)   
 
 **5.2** <a name="Toothbrush"></a> **Toothbrush**  
 - **5.2.1** Mechanically scrape nubbin using a toothbrush
@@ -109,8 +112,11 @@ Lewinski Lab calcium-magnesium free artificial seawater mixture:
 	 - Lewinski lab coral culture media recipe here: [**Coral-Culture-Media-Reagents**](#Coral-Culture-Media-Reagents)   
 
 **5.4** <a name="Ca-Mg-free-seawater"></a> **Ca-Mg-free-seawater**  
--	**5.4.1** Incubate nubbin or cells at 25°C for 3 hours in shaking incubator (rpm 30), in filtered, calcium and magnesium free, artificial seawater supplemented with 3% [Antibiotics-antimycotics solution Thermofisher #1524006](https://www.thermofisher.com/order/catalog/product/15240062#/15240062) solution
-
+-	**5.4.1** Incubate nubbin at 25°C for 1-3 hours in shaking incubator (rpm 30), in filtered, calcium and magnesium free, artificial seawater supplemented with 3% [Antibiotics-antimycotics solution Thermofisher #1524006](https://www.thermofisher.com/order/catalog/product/15240062#/15240062) solution.
+-	**5.4.2** Using tweezers, transfer nubbin to a sterile Eppendorf tube and rinse nubbin using 2 mL of filtered, calcium and magnesium free, artificial seawater supplemented with 3% [Antibiotics-antimycotics solution Thermofisher #1524006](https://www.thermofisher.com/order/catalog/product/15240062#/15240062) solution.
+	- a. NOTE: An incubation of 1 hour yields on the order of 10^6 cells.
+	- b. NOTE: A 3 hour incubation time does not collect all tissue.  Incubation for 2 days results in significantly more tissue harvested.
+	
 **D.** <a name="Incubation"></a> **Incubation**  
 
 - **For mechanical harvesting with a medical scapel, toothbrush, or paintbrush**: timing for incubation period undetermined as of 07282020
@@ -140,7 +146,7 @@ Lewinski Lab calcium-magnesium free artificial seawater mixture:
 	- NOTE: Lewinski lab coral culture media recipe here: [**Coral-Culture-Media-Reagents**](#Coral-Culture-Media-Reagents)  
 
 **E.** <a name="Incubation-Conditions"></a> **Incubation-Conditions**  
-- Temperature: 25C using a hotplate with a beaker of water  
+- Temperature: 25°C using a hotplate with a beaker of water  
   - NOTE: keep relative humidity above 50% but below 80%. Need to modify procedure to control RH in small plexiglass incubator
 - Light levels: TBD (no initial differences observed with or without light)
 	- NOTE: use [Aqua Illumination Prime 16HD light](https://www.aquaillumination.com/products/prime) and monitor conditions using [Neptune Systems New APEX Wi-Fi Controller System #NS1191](https://www.marinedepot.com/neptune-systems-new-apex-wi-fi-controller-system)
