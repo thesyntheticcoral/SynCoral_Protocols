@@ -60,7 +60,7 @@ Last Revised: 20200803
 **How to make coral culture media**  
   - 15 mL [Dulbecco's Modified Eagle Medium (DMEM) Fisher scientific #SH3024301](https://www.fishersci.com/shop/products/hyclone-classical-liquid-media-dulbeccos-modified-eagles-medium-dmem-high-with-l-glutamine-sodium-pyruvate-500ml/sh3024301)   
   - 10 mL [Fetal Bovine Serum (FBS) Thermofisher Scientific #26140087](https://www.thermofisher.com/order/catalog/product/26140087#/26140087)   
-  - 1 mL [Antibiotics-antimycotics solution Thermofisher #1524006](https://www.thermofisher.com/order/catalog/product/15240062#/15240062)   
+  - 1 mL [Antibiotics-antimycotics solution Thermofisher #15240062](https://www.thermofisher.com/order/catalog/product/15240062#/15240062)   
   - 0.5 mL [Gentamicin Thermofisher #15710064](https://www.thermofisher.com/order/catalog/product/15710064#/15710064)   
   - 74 mL artificial seawater (recipe below)
 	- NOTE: Filter all ingredients using a Corning vacuum filter/storage bottle system with 0.2 μm pore size membrane.
