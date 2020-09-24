@@ -11,7 +11,7 @@ projects: Putnam Lab, Lewinski Lab, Synthetic Coral
 #### There are multiple options for isolation and incubation techniques.
 
 Original: 220200715  
-Last Revised: 20200803  
+Last Revised: 20200924  
 
 ## Table of Contents  
 - [**Materials**](#Materials)
@@ -22,7 +22,7 @@ Last Revised: 20200803
 	- [**Paintbrush**](#Paintbrush)
 - [**Incubation**](Incubation)    
 	- [**Trypsin**](#Trypsin)
-	- [**Trypsin-and-Liberase-(with-Collagenase)**](#Trypsin-and-Liberase-(with-Collagenase))
+	- [**Liberase**](#Liberase)
 - [**Incubation-Conditions**](#Incubation-Conditions)
 - [**Viability**](Viability)
 - [**General-Notes**](General-Notes)
@@ -41,7 +41,7 @@ Last Revised: 20200803
   - [Antibiotics-antimycotics solution Thermofisher #15240062](https://www.thermofisher.com/order/catalog/product/15240062#/15240062)    
   - Sterile plastic petri dish  
   -	[Trypsin Fishersci #25300054](https://www.fishersci.com/shop/products/trypsin-05-edta/25300054)  
-  - [Liberase solution with COllagenase Millipore Sigma #5401119001](https://www.sigmaaldrich.com/catalog/product/roche/libtmro?lang=en&region=US&gclid=Cj0KCQjwpNr4BRDYARIsAADIx9zfc5YGD6_945gvdyfUuAw24tSf-Xyaf-Xb_pm_QNG67XttLhyo7hMaAtpPEALw_wcB)
+  - [Liberase solution with Collagenase Millipore Sigma #5401119001](https://www.sigmaaldrich.com/catalog/product/roche/libtmro?lang=en&region=US&gclid=Cj0KCQjwpNr4BRDYARIsAADIx9zfc5YGD6_945gvdyfUuAw24tSf-Xyaf-Xb_pm_QNG67XttLhyo7hMaAtpPEALw_wcB)
   - Conical tube (15 mL)  
   - Centrifuge (can reach 1200 rpm)  
   - Shaking incubator (25 C, 30 rpm)   
@@ -71,6 +71,7 @@ Last Revised: 20200803
 - Add 10 gal of distilled water to carboy (with salt)  
 - Shake Carboy with salt and distilled water thoroughly  
 	- NOTE: salt needs to be dissolved before use
+	- NOTE: can use a (clean) aquarium pump to help dissolve salt
 
 **How to make CaMg free seawater**  
 Lewinski Lab calcium-magnesium free artificial seawater mixture:  
@@ -116,10 +117,6 @@ Lewinski Lab calcium-magnesium free artificial seawater mixture:
 -	**5.4.2** Using tweezers, transfer nubbin to a sterile Eppendorf tube and rinse nubbin using 2 mL of filtered, calcium and magnesium free, artificial seawater supplemented with 3% [Antibiotics-antimycotics solution Thermofisher #1524006](https://www.thermofisher.com/order/catalog/product/15240062#/15240062) solution.
 	- a. NOTE: An incubation of 1 hour yields on the order of 10^6 cells.
 	- b. NOTE: A 3 hour incubation time does not collect all tissue.  Incubation for 2 days results in significantly more tissue harvested.
-	
-**D.** <a name="Incubation"></a> **Incubation**  
-
-- **For mechanical harvesting with a medical scapel, toothbrush, or paintbrush**: timing for incubation period undetermined as of 07282020
 
 **6.2** <a name="Trypsin"></a> **Trypsin**    
 - **6.2.1**. Transfer water containing detached tissue and cells to a conical tube (15 mL) and centrifuge at 1200 rpm for 3 minutes.  
@@ -127,23 +124,23 @@ Lewinski Lab calcium-magnesium free artificial seawater mixture:
 - **6.2.2** Aspirate the supernatant  and add 2 mL of [Trypsin fishersci #25300054](https://www.fishersci.com/shop/products/trypsin-05-edta/25300054) to resuspend the pellet.
   - NOTE: for different trypsin concentrations: 1 mL of 0.25% trypsin stock solution + 1 mL of filtered artificial seawater (no [HEPES Thermofisher #15630106](https://www.thermofisher.com/us/en/home/life-science/cell-culture/mammalian-cell-culture/reagents/hepes.html)) to make 0.125% trypsin solution. 1 mL of 0.05% trypsin stock solution + 1 mL of filtered artificial seawater (no [HEPES Thermofisher #15630106](https://www.thermofisher.com/us/en/home/life-science/cell-culture/mammalian-cell-culture/reagents/hepes.html)) to make 0.025% trypsin solution.
 	- NOTE: Both [trypsin] work and we need to measure the cell concentrations harvested resulting from the different concentrations.
-- **6.2.3** Incubate the resuspended cell mixture for 5 minutes at 25°C then check for cell separation (e.g. primarily individual cells in suspension, little to no large cell aggregates).  If not completely digested, incubate for another 5 minutes.
+- **6.2.3** Incubate the resuspended cell mixture for 10 minutes at 25°C then check for cell separation (e.g. primarily individual cells in suspension, little to no large cell aggregates).  
 - **6.2.4** Add 3 mL of coral cell media to neutralize trypsin then centrifuge cells at 1200 rpm for 3 minutes.
 - **6.2.5** Aspirate the supernatant and resuspend with 5 mL of coral cell culture media.  
 	- NOTE: Lewinski lab coral culture media recipe here: [**Coral-Culture-Media-Reagents**](#Coral-Culture-Media-Reagents)
 
-**6.3** <a name="Trypsin-and-Liberase-(with-Collagenase)"></a> **Trypsin-and-Liberase-(with-Collagenase)**  
+**6.3** <a name="Liberase"></a> **Liberase**    
 - **6.3.1**. Transfer water containing detached tissue and cells to a conical tube (15 mL) and centrifuge at 1200 rpm for 3 minutes.  
 	- NOTE: A pellet should be visible at the bottom of the conical tube.
-- **6.3.2** Aspirate the supernatant and add 2 mL of [Trypsin fishersci #25300054](https://www.fishersci.com/shop/products/trypsin-05-edta/25300054) and 2 mL of [Liberase solution with Collagenase Millipore Sigma #5401119001](https://www.sigmaaldrich.com/catalog/product/roche/libtmro?lang=en&region=US&gclid=Cj0KCQjwpNr4BRDYARIsAADIx9zfc5YGD6_945gvdyfUuAw24tSf-Xyaf-Xb_pm_QNG67XttLhyo7hMaAtpPEALw_wcB) to resuspend the pellet.
-	- NOTE: Liberase TM 2 x 5 mg (Millipore Sigma cat. no. 5401119001) – contains a blend of Collagenase I and Collagenase II and medium concentration of Thermolysin, a non-clostridial neutral protease. Reconstitute lyophilized enzyme (5mg) in 2 mL filtered artificial seawater to produce working solution **with concentration of 2.5 mg/mL liberase.**
-	- NOTE: Liberase TM was selected versus Liberase DL because observation of tissue balls was not reported, suggesting cells remained dispersed after dissociation.
-	 - NOTE: for different trypsin concentrations: 1 mL of 0.25% trypsin stock solution + 1 mL of filtered artificial seawater (no [HEPES Thermofisher #15630106](https://www.thermofisher.com/us/en/home/life-science/cell-culture/mammalian-cell-culture/reagents/hepes.html)) to make 0.125% trypsin solution. 1 mL of 0.05% trypsin stock solution + 1 mL of filtered artificial seawater (no [HEPES Thermofisher #15630106](https://www.thermofisher.com/us/en/home/life-science/cell-culture/mammalian-cell-culture/reagents/hepes.html)) to make 0.025% trypsin solution.
-	- NOTE: Both [trypsin] work and we need to measure the cell concentrations harvested resulting from the different concentrations.
-- **6.3.3** Incubate the resuspended cell mixture for **3 days at 25°C** then check for cell separation.
-- **6.3.4** Add 3 mL of coral cell media to neutralize liberase then centrifuge cells at 1200 rpm for 3 minutes.
-- **6.3.5** Aspirate the supernatant and resuspend with 5 mL of coral cell culture media.
-	- NOTE: Lewinski lab coral culture media recipe here: [**Coral-Culture-Media-Reagents**](#Coral-Culture-Media-Reagents)  
+- **6.3.2** Aspirate the supernatant 2 mL 0.05% Liberase.
+	- NOTE: to make liberase stock solution, add 1 mL filtered artificial seawater to 2.5 mg [Liberase Millipore Sigma #5401119001](https://www.sigmaaldrich.com/catalog/product/roche/libtmro?lang=en&region=US&gclid=Cj0KCQjwpNr4BRDYARIsAADIx9zfc5YGD6_945gvdyfUuAw24tSf-Xyaf-Xb_pm_QNG67XttLhyo7hMaAtpPEALw_wcB). To reach the 0.05% liberase concentration used for the digestion, add 4 mL of additional filtered artificial seawater to 1 mL of stock liberase solution.
+- **6.3.3** Incubate the resuspended cell mixture for 20 minutes at 25°C then check for cell separation (e.g. primarily individual cells in suspension, little to no large cell aggregates).  
+- **6.3.4** Add 3 mL of coral cell media to neutralize trypsin then centrifuge cells at 1200 rpm for 3 minutes.
+- **6.3.5** Aspirate the supernatant and resuspend with 5 mL of coral cell culture media.  
+	- NOTE: Lewinski lab coral culture media recipe here: [**Coral-Culture-Media-Reagents**](#Coral-Culture-Media-Reagents)
+
+**D.** <a name="Incubation"></a> **Incubation**  
+	- **For mechanical harvesting with a medical scapel, toothbrush, or paintbrush**: timing for incubation period undetermined as of 07282020
 
 **E.** <a name="Incubation-Conditions"></a> **Incubation-Conditions**  
 - Temperature: 25°C using a hotplate with a beaker of water  
