@@ -1,0 +1,4 @@
+Date,Calib.Date,Timepoint,Type,Time,Sample.ID,Treatment,Temperature,pH.MV,Salinity,Notes
+20200917,20200917,1,meow,meow,tank,tank,23.85,47.25,40,
+20200917,20200917,1,meow,meow,GSO,GSO,22.675,52.85,33,
+20200917,20200917,1,meow,meow,carboy,carboy,22.4,65.2,30,
