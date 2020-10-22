@@ -13,10 +13,10 @@ Last Revised: 20201022
 # Protocols for inducing polyp bailout via hyperosmotic stress
 
 ## Table of Contents
-- [**Shapiro et al 2016**](#Shapiro et al 2016)
-- [**Chuang and Mitarai 2020**](#Chuang and Mitarai 2020)
+- [**Shapiro-et-al-2016**](#Shapiro-et-al-2016)
+- [**Chuang-and-Mitarai-2020**](#Chuang-and-Mitarai-2020)
 
-<a name="Shapiro et al 2016"></a> **Shapiro et al 2016**
+<a name="Shapiro-et-al-2016"></a> **Shapiro-et-al-2016**
  - link to paper: [Shapiro et al 2016 Nature Communications](https://www.nature.com/articles/ncomms10860)
 
 ### Shapiro et al methods
@@ -42,7 +42,7 @@ Last Revised: 20201022
  - NOTE: this should result in the expulsion of over 90% of the polyps.
  - NOTE: if polyp bailout does not occur in Pdam, removing fragment from high salinity FASW to air exposure to 30 min and back to high salinity FASW can hasten polyp bailout.
 
-<a name="Chuang and Mitarai 2020"></a> **Chuang and Mitarai 2020**
+<a name="Chuang-and-Mitarai-2020"></a> **Chuang-and-Mitarai-2020**
  - link to paper: [Chuang and Mitarai 2020 Coral Reefs](https://link.springer.com/article/10.1007/s00338-020-01983-x)
 
  ### Chuang and Mitarai methods
