@@ -29,7 +29,7 @@ library(seacarb) #used to calculate TA
 library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
-path<-"/Users/hannahreich/Desktop/Github/SynCoral_Protocols/WaterQuality/20200917/" #the location of all your titration files
+path<-"/Users/hannahreich/Desktop/Github/SynCoral_Protocols/WaterQuality/20200917" #the location of all your titration files
 massfile<-"20200917mass_CRM.csv" # name of your file with masses
 titrationfile<-"20200917_CRM.csv" # name of the last titration file run
 

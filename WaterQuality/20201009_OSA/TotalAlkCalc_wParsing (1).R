@@ -13,7 +13,6 @@
 #modified 20190626 Sam Gurr
 #new acid bottle 20190626 by Sam Gurr - changed lines 
 #line 68 changed SampleID to Sample.ID - Sam Gurr 20180713
-# Hannah
 #
 #------------------------------------------------------------
 rm(list=ls())
@@ -30,8 +29,8 @@ library(tidyverse)
 
 #CHANGE THESE VALUES EVERY DAY----------------------------------------------
 path<-"/Users/hannahreich/Desktop/Github/SynCoral_Protocols/WaterQuality/20201009_OSA" #the location of all your titration files
-massfile<-"20201009mass_RUN1.csv" # name of your file with masses
-titrationfile<-"20201009_RUN1.csv" # name of the last titration file run
+massfile<-'20201009mass_CRM.csv' # name of your file with masses
+titrationfile<-'20201009_CRM.csv'# name of the last titration file run
 
 
 # Date that the data were run
@@ -42,10 +41,9 @@ date<-'20201009'
 #load Data---------------------------------------------------
 #load Mass Data
 Mass<-read.csv(file.path(path,massfile), header=T, sep=",", na.string="NA", as.is=T) 
-# future self or poor soul if you get a "incomplete final line found by readTableHeader" error message, open the csv file in a text editor and hit enter to add in an extra line
 
 #### pH Calibration #####
-pHCal<-read.csv("/Users/hannahreich/Desktop/Github/SynCoral_Protocols/WaterQuality/20201009_OSA/pHCalibration.csv") # read in the pH Calibration file
+pHCal<-read.csv('/Users/hannahreich/Desktop/Github/SynCoral_Protocols/WaterQuality/20201009_OSA/pHCalibration.csv') # read in the pH Calibration file
 
 #select the calibration for the correct date
 pHData<-pHCal[pHCal$Date==date,]
@@ -105,6 +103,7 @@ for(i in 1:nrows) {
   Data$mV<-suppressWarnings(as.numeric(Data$mV)) ## supress the warnings since NA will be produced through coercion
   Data$Temperature<-suppressWarnings(as.numeric(Data$Temperature)) ## supress the warnings since NA will be produced through coercion
   Data$Volume<-suppressWarnings(as.numeric(Data$Volume)) ## supress the warnings since NA will be produced through coercion
+ # Data$dV.dt<-suppressWarnings(as.numeric(Data$dV.dt)) ## supress the warnings since NA will be produced through coercion
   #name of the file without .csv
   #name<-unlist(strsplit(file.names[i], split='.', fixed=TRUE))[1]
   name<-sample_names[i]
@@ -119,12 +118,12 @@ for(i in 1:nrows) {
   
   #Batch A15
   #d<-1.02901 -(0.0001233*mean(Data$Temperature[mV], na.rm=T)) - (0.0000037*(mean(Data$Temperature[mV], na.rm=T)^2)) 
-  #Batch 141 changed on 20201002... need to change eventually!
+  #Batch A16 changed on 20190731
   d<-1.02884 -(0.0001065*mean(Data$Temperature[mV], na.rm=T)) - (0.0000041*(mean(Data$Temperature[mV], na.rm=T)^2)) 
   
   #concentration of your titrant: CHANGE EVERYTIME ACID IS CHANGED 
-  #c<-0.100146 #Batch A15 first used by SJG on 20190218   #NEED TO CHANGE
-  c<-0.100010 #Batch A16 first used by SJG on 20190731  ## NEED TO CHANGE
+  #c<-0.100146 #Batch A15 first used by SJG on 20190218  
+  c<-0.100010 #Batch A16 first used by SJG on 20190731 
   #------------------------------------------------------------------------------
   
   #Salinity of your samples
