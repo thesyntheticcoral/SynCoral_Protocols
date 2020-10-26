@@ -7,7 +7,7 @@ tags: aquarium maintenance
 projects: Putnam Lab, Lewinski Lab, Synthetic Coral
 ---
 
-Original: 20201005
+Original: 20201005 
 Last Revised: 20201022
 
 # Materials used for aquarium setup

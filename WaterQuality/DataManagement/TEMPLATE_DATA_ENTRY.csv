@@ -1,0 +1,7 @@
+﻿Date,Lab,Treatment_ID,Tank_ID,Light,Temperature,Salinity,pH,pH_mv,Date_Of_Most_Recent_Water_Change,Polyp_Activity,
+20201016,Putnam,WaterTables,WaterTables,,25.17,33.5,8.3,-66.3,,,didn't use spaceship conductivity probe
+20201016,Putnam,10galtank,10galtank,,25.6,30.5,8.45,-75,20201016,,didn't use spaceship conductivity probe
+20201021,Putnam,WaterTables,WaterTables,,24.2,37,8.19,-59.2,,,didn't use spaceship conductivity probe
+20201021,Putnam,10galtank,10galtank,,26,33,7.79,-35.9,20201016,,didn't use spaceship conductivity probe
+20201023,Putnam,WaterTables,WaterTables,,24.5,27.34,8.22,-64.6,,,used spaceship conductivity probe
+20201023,Putnam,10galtank,10galtank,,26.1,33,7.8,-40.1,20201016,,didn't use spaceship conductivity probe
