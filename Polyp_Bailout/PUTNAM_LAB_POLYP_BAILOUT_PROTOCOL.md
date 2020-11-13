@@ -43,5 +43,5 @@ Last Revised: 20201113
 
 # Checkpoints
 - 0hr ~35psu
-- 15hr ~50psu
+- 15hr ~50psu 
 **once 50psu is reached (~15 hr), STOP dosing in high salinity seawater!!**
