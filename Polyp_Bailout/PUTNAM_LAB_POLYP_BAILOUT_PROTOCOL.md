@@ -34,7 +34,8 @@ Last Revised: 20201113
 - NOTE: the reason we are not completely filling the tank is so the high-salinity seawater does NOT overflow into our water table (which has corals enjoying life at ~35 psu that we do not want to inflict hyperosmotic stress on). In order to achieve the desired salinity ramp we need to have enough room for mixing, overflow would prevent the desired salinity increases from occurring.
 2. Add pump to the mini-tank.
 3. ziptie tubing from DOS around the pump.
-4. Program DOS to add **60 mL of high salinity seawater (64 psu) every 30 minutes**
+4. Program DOS to add **60 mL of high salinity seawater (64 psu) every 30 minutes**. This increases salinity by 0.92 psu/hour. This means you'll need to dos for about ~15 hours
+- NOTE: don't forget to program the dos to stop dosing after 15 hours because of overflow!
 5. Add a ~5mm *Pocillopora damicornis* fragment into a mesh settlement chamber.
 - NOTE: the pdam frag is in the mesh settlement chamber so the micropropagules (bailed out polyps) don't get caught in the pump.
 - **to make settlement chamber**: take a small tupperware container and cut out most of the sides and bottom. Attach mesh around holes so the fragments can enjoy water flow. Secure mesh around the tupperware (with holes) using a hot glue gun. Once the glue cools, place the container in freshwater for ~10min to remove debris.
@@ -42,6 +43,5 @@ Last Revised: 20201113
 
 # Checkpoints
 - 0hr ~35psu
-- 12hr ~##psu
-- 24hr ~##psu
-**once 50psu is reached, STOP dosing in high salinity seawater!!**
+- 15hr ~50psu
+**once 50psu is reached (~15 hr), STOP dosing in high salinity seawater!!**
