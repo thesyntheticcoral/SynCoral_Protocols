@@ -10,7 +10,7 @@ projects: Putnam Lab, Lewinski Lab, Synthetic Coral
 Original: 20201113  
 Last Revised: 20201113  
 
-# Putnam Lab Protocol for inducing polyp bailout via hyperosmotic stress
+# Protocol for inducing polyp bailout via hyperosmotic stress
 
 ## for other Pdam polyp bailout protocols in the literature [go here](https://github.com/thesyntheticcoral/SynCoral_Protocols/blob/master/Polyp_Bailout/polyp_bailout_protocols.md)
 
@@ -18,7 +18,7 @@ Last Revised: 20201113
 - bone cutters
 - carboy for seawater mixing
 - [Fritz Reef Pro artificial seawater](https://www.amazon.com/gp/product/B01K4YY8HM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) 
-    - ambient salinity seawater (35 psu - )
+    - ambient salinity seawater (35 psu)
     - high salinity seawater (64 psu)
 - [6L polycarboate tanks](https://www.amazon.com/gp/product/B0006384LI/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
 - [Apex Fusion cloud Apex control](https://www.neptunesystems.com/apex-fusion/)
