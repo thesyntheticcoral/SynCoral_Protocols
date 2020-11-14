@@ -27,7 +27,7 @@ Last Revised: 20201113
 - conductivity (salinity) probe
 - temperature probe
 - [aquarium pump - Hydor pico 300gph](https://www.amazon.com/gp/product/B003SNG9I8/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
-- [settlement chamber 118ml with 4 sides and bottom covered with 153µm mesh](https://www.amazon.com/gp/product/B00PCJ8T6G/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+- [polyp bailout chamber 118ml with 4 sides and bottom covered with 153µm mesh](https://www.amazon.com/gp/product/B00PCJ8T6G/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 - hot glue gun
 
 # Steps
