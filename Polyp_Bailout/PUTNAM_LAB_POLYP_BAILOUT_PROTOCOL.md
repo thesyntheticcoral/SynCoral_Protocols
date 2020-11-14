@@ -16,32 +16,33 @@ Last Revised: 20201113
 
 # Materials
 - bone cutters
-- artificial seawater (35 psu)
-- high salinity seawater (64 psu)
-- 6L mini-tanks
-- apex fusion
-- apex dos
+- carboy for seawater mixing
+- [Fritz Reef Pro artificial seawater](https://www.amazon.com/gp/product/B01K4YY8HM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) 
+    - ambient salinity seawater (35 psu - )
+    - high salinity seawater (64 psu)
+- [6L polycarboate tanks](https://www.amazon.com/gp/product/B0006384LI/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+- [Apex Fusion cloud Apex control](https://www.neptunesystems.com/apex-fusion/)
+- [apex dos](https://www.neptunesystems.com/dos/) or [other dosing pump] (https://www.amazon.com/gp/product/B014KKCILE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 - pH probe
 - conductivity (salinity) probe
 - temperature probe
-- aquarium pump
-- settlement chamber (mini tupperware and some mesh)
+- [aquarium pump - Hydor pico 300gph](https://www.amazon.com/gp/product/B003SNG9I8/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
+- [settlement chamber 118ml with 4 sides and bottom covered with 153µm mesh](https://www.amazon.com/gp/product/B00PCJ8T6G/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 - hot glue gun
-- zip ties
 
 # Steps
-1. Rinse mini-tank in freshwater to clean. Fill **4L** mini-tank with artificial seawater (salinity = 35 psu).
-- NOTE: the reason we are not completely filling the tank is so the high-salinity seawater does NOT overflow into our water table (which has corals enjoying life at ~35 psu that we do not want to inflict hyperosmotic stress on). In order to achieve the desired salinity ramp we need to have enough room for mixing, overflow would prevent the desired salinity increases from occurring.
-2. Add pump to the mini-tank.
-3. ziptie tubing from DOS around the pump.
+1. Rinse tank in freshwater to clean. Fill **4L** of the tank with artificial seawater (salinity = 35 psu) leaving 2L of space for mixing high salinity water (64psu) to get to desired 50psu.
+2. Add pump to the tank.
+3. Attach (ziptie) tubing coming from the high salinity DOS head around the pump such that the solution will be delivered directly into the pump inflow and be mixed immediately.
 4. Program DOS to add **60 mL of high salinity seawater (64 psu) every 30 minutes**. This increases salinity by 0.92 psu/hour. This means you'll need to dos for about ~15 hours
-- NOTE: don't forget to program the dos to stop dosing after 15 hours because of overflow!
+- NOTE: don't forget to program the dos to stop dosing after 15 hours so the tank will not overflow.
 5. Add a ~5mm *Pocillopora damicornis* fragment into a mesh settlement chamber.
 - NOTE: the pdam frag is in the mesh settlement chamber so the micropropagules (bailed out polyps) don't get caught in the pump.
-- **to make settlement chamber**: take a small tupperware container and cut out most of the sides and bottom. Attach mesh around holes so the fragments can enjoy water flow. Secure mesh around the tupperware (with holes) using a hot glue gun. Once the glue cools, place the container in freshwater for ~10min to remove debris.
-6. After bailout occurs, **move the settlement chambers with coral fragments into a regular salinity seawater tank**. Monitor for survivorship and all of the things.
+- **to make bailout chamber**: take a small tupperware container and cut out most of the sides and bottom. Attach 153µm mesh around each hole with hot glue so the fragments can receive water flow. Secure mesh around the tupperware (with holes) using a hot glue gun. Soak the container in freshwater for 24h to remove any plastic or glue leechate.
+6. After bailout occurs, **move the settlement chambers with coral fragments into a seawater tank at 34psu**. 
 
 # Checkpoints
 - 0hr ~35psu
 - 15hr ~50psu 
-**once 50psu is reached (~15 hr), STOP dosing in high salinity seawater!!**
+- 24hr ~50psu - check for bailout
+- 48hr ~50psu - check for bailout 
