@@ -20,7 +20,7 @@ Last Revised: 20210120
 - carboy for seawater mixing
 - [Fritz Reef Pro artificial seawater](https://www.amazon.com/gp/product/B01K4YY8HM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
     - ambient salinity seawater (35 psu)
-    - high salinity seawater (64 psu)
+    - 2 gal carboy of high salinity seawater (75 psu)
 - [6L polycarbonate tanks](https://www.amazon.com/gp/product/B0006384LI/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
 - [Apex Fusion cloud Apex control](https://www.neptunesystems.com/apex-fusion/)
 - [Apex Neptune systems](https://www.neptunesystems.com/apex-2016/)
