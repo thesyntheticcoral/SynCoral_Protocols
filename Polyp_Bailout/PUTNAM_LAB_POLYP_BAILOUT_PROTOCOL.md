@@ -12,7 +12,7 @@ Last Revised: 20210120
 
 # Protocol for inducing polyp bailout via hyperosmotic stress
 
-## for other Pdam polyp bailout protocols in the literature [go here](https://github.com/thesyntheticcoral/SynCoral_Protocols/blob/master/Polyp_Bailout/polyp_bailout_protocols.md)
+#### older version of this document [go here](https://github.com/thesyntheticcoral/SynCoral_Protocols/blob/master/Polyp_Bailout/polyp_bailout_protocols.md)
 
 # Materials and Equipment
 - bone cutters
@@ -36,19 +36,35 @@ Last Revised: 20210120
 - [aquarium pump - Hydor pico 300gph](https://www.amazon.com/gp/product/B003SNG9I8/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
 - [polyp bailout chamber 118ml with 4 sides and bottom covered with 153µm mesh](https://www.amazon.com/gp/product/B00PCJ8T6G/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 - hot glue gun
+- bulb pipettes
+- Sedgewick Rafter slide
+- Glass petri dishes
+- Microscope slide cover slips
+- Compound microscope
+- Dissecting Microscope
+- Snap zoom attachment for microscope eye piece
 
-# Steps
+# Before experiment prep
+1. Precondition settlement substrate (plastic petri dishes and/or glass cover slips) in aquaria with live rock. This can be started a few weeks prior to experimentation
+2. Make bailout/settlement chambers
+-take a small tupperware container and cut out most of the sides and bottom. Attach 153µm mesh around each hole with hot glue so the fragments can receive water flow. Secure mesh around the tupperware (with holes) using a hot glue gun. Soak the container in freshwater for 24h to remove any plastic or glue leechate. Precondition settlement chambers in the aquaria for a few weeks as well
+
+# Bailout steps
 1. Rinse tank in freshwater to clean. Fill 4L of the tank with artificial seawater (salinity ~35 psu) leaving 2L of space for mixing high salinity water (~75psu) to get to desired ~60psu.
+-NOTE: take temperature, salinity, and pH measurements of control and treatment tanks
 2. Add a clean pump to the tank.
 3. Attach (ziptie) tubing coming from the high salinity DOS head around the pump such that the solution will be delivered directly into the pump inflow and be mixed immediately.
 4. Program DOS to add 60 mL of high salinity seawater (75 psu) every 30 minutes. This increases salinity by ~0.85-1.1 psu/hour. This means you'll need to program two 14 hour doses (28-29 doses each)
-- NOTE: don't forget to program the dos to stop dosing after 15 hours so the tank will not overflow.
+- NOTE: don't forget to program the dos to stop dosing after 14 hours so the tank will not overflow.
+-NOTE: take temperature, salinity, and pH measurements of control and treatment tanks
 5. Add a ~5mm *Pocillopora damicornis* fragment into a mesh settlement chamber.
 - NOTE: the coral frag is in the mesh settlement chamber so the micropropagules (bailed out polyps) don't get caught in the pump.
-- **to make bailout chamber**: take a small tupperware container and cut out most of the sides and bottom. Attach 153µm mesh around each hole with hot glue so the fragments can receive water flow. Secure mesh around the tupperware (with holes) using a hot glue gun. Soak the container in freshwater for 24h to remove any plastic or glue leechate.
-6. After bailout occurs, move the settlement chambers with coral fragments into a seawater tank at 34psu.
+6. After the first 14 hour dos-ing period, check temperature, pH, and salinity. Siphon out 2 L of water and reprogram dos for next 14 hour dosing period
+7. After bailout occurs, move the settlement chambers with coral fragments into a seawater tank at ~35psu.
 - NOTE: **include preconditioned plastic petri dishes or glass cover slips in mesh chambers as settlement substrate.**
-- These can be preconditioned by placing in aquaria near live rock for a few weeks prior to experimentation
+- NOTE: take temperature, salinity, and pH measurements of control and treatment tanks before disassembling
+
+NOTE: photograph and video (~1min) control and treatment fragments before starting the experiment, T=24hr, T=48hr. Use a Snapzoom attachment for a dissecting scope for these pictures (see below).
 
 # Water quality (ambient tank)
 - humidity (in room) 33-35
@@ -57,20 +73,20 @@ Last Revised: 20210120
 - salinity: 33.5-36.5 psu
 
 # Checkpoints
-- 0hr ~35psu
-- 24hr ~48psu - photograph and check for bailout
+- 0hr ~35psu - photograph fragments.
+- 24hr ~48psu - photograph fragments and check for bailout
 - 48hr ~60psu - photograph and check for bailout
-- Phenotyping **immediately after bailout and subsequent 24hr increments** to track survivorship.
-- Settlement **
+- Phenotyping **immediately after bailout and subsequent 24hr increments** to track survivorship. Use a compound microscope at 4x magnification. Micropropagules can be transferred to a Sedgewick Rafter chambers via a bulb pipette for viewing.
+- Settlement - 4-5 days after bailout and weekly afterwards
 
 # Response variables
-- Lab notebook post on microporapgule **Phenotyping** [here](https://github.com/hgreich/HGR_Lab_Notebook/blob/master/_posts/20210120_micropropagule_phenotyping.Md).
+- Lab notebook post on microporapgule **Phenotyping** [here](https://github.com/hgreich/HGR_Lab_Notebook/blob/master/_posts/20210120_micropropagule_phenotyping.Md). Use a compound microscope at 4x magnification. Micropropagules can be transferred to a Sedgewick Rafter chambers via a bulb pipette for viewing.
 - Sizing of microprapagules with [ImageJ](https://imagej.nih.gov/ij/docs/index.html)
 - Settlement success
 
 # References
 
-### Chuang et al 2019
+### Chuang et al 2020
 Chuang, P. S., & Mitarai, S. (2020). Signaling pathways in the coral polyp bail-out response. Coral Reefs, 1-14.[manuscript link](https://link.springer.com/article/10.1007/s00338-020-01983-x)  
 
 "high-salinity artificial seawater (48‰) was pumped into the experimental tank at a constant rate of 4 mL min−1 using a peristaltic pump"
