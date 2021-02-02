@@ -65,6 +65,9 @@ Last Revised: 20210120
 - NOTE: take temperature, salinity, and pH measurements of control and treatment tanks before disassembling
 
 NOTE: photograph and video (~1min) control and treatment fragments before starting the experiment, T=24hr, T=48hr. Use a Snapzoom attachment for a dissecting scope for these pictures (see below).
+![photo_station](https://github.com/thesyntheticcoral/SynCoral_Protocols/blob/master/Polyp_Bailout/equipment_images/chambers_near_dissecting_scope.HEIC)
+
+Photos of the bailout tank setup can be found [here](https://github.com/thesyntheticcoral/SynCoral_Protocols/tree/master/Polyp_Bailout/equipment_images)
 
 # Water quality (ambient tank)
 - humidity (in room) 33-35
