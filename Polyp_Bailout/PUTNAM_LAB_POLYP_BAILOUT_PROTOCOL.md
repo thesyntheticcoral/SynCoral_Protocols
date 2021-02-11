@@ -24,7 +24,8 @@ Last Revised: 20210211
 - [6L polycarbonate tanks](https://www.amazon.com/gp/product/B0006384LI/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
 - [Apex Fusion cloud Apex control](https://www.neptunesystems.com/apex-fusion/)
 - [Apex Neptune systems](https://www.neptunesystems.com/apex-2016/)
-- [apex dos](https://www.neptunesystems.com/dos/) or [other dosing pump] (https://www.amazon.com/gp/product/B014KKCILE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+- [apex dos](https://www.neptunesystems.com/dos/) or [other dosing pump] (https://www.amazon.com/gp/product/B014KKCILE/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- [Aqua Illumination Prime 16HD light](https://www.aquaillumination.com/products/prime)  
 - pH probe and meter
     Mettler Toledo pH probe no. 51343101  
     Orion AStar 325  
@@ -65,8 +66,40 @@ Last Revised: 20210211
 6. After the first 14 hour dos-ing period, check temperature, pH, and salinity. Siphon out 2 L of water and reprogram dos for next 14 hour dosing period
 7. After bailout occurs, move the settlement chambers with coral fragments into a seawater tank at ~35psu.
 - NOTE: **include preconditioned plastic petri dishes or glass cover slips in mesh chambers as settlement substrate.**
+-**NOTE: FOR SETTLEMENT CHAMBERS - use artificial seawater from the large mixing tank (this is because the water table water is recirculating and might have imbalanced nutrients)**
 - NOTE: take temperature, salinity, and pH measurements of control and treatment tanks before disassembling
+- NOTE: place coral fragment with remaining (attached) MPs in a separate settlement chamber than the one with the detached micropropagules counted earlier (**this impacts settlement calculations**)
 
+# Settlement tracking
+**NOTE** in lieu of placing recently detached micropropagules in settlement chambers, use 6-well culture plates **in incubator** - [examples here](https://www.google.com/search?q=6+well+plates&tbm=isch&chips=q:6+well+plates,g_1:tissue+culture:stOHhxRhTRE%3D&hl=en&sa=X&ved=2ahUKEwjWtJWJ3OLuAhVFSN8KHTeOCZUQ4lYoAnoECAEQHQ&biw=1207&bih=664)
+
+Using the well plates can allow for a more controlled settlement tracking experiment because 1) micropropagules are easier to locate in well plates and 2) the mesh chambers sometimes attract flat worms.
+
+## incubator setup
+- temperature - ~25C
+- light - [Aqua Illumination Prime 16HD light](https://www.aquaillumination.com/products/prime) - see lab notebook post on light profiles here
+- pH: -59-63 mV
+- salinity: 33.5-36.5 psu
+
+1. Open cover and add 2mL artificial seawater to each well in the 6-well plates
+-**NOTE: use artificial seawater from the large mixing tank (this is because the water table water is recirculating and might have imbalanced nutrients)**
+2. Place settlement substrate in each well. This can include
+- waterproof paper with and without red tape (do not pre-condition paper)
+- microscope slide cover slips with and without red tape (can pre-condition cover slips)
+- petri dishes with and without red tape (can pre-condition petri dishes)
+- bare coral skeleton
+  - coral skeleton needs to be soaked in bleach overnight, dried overnight, and autoclaved
+3. After bailout, count up to 20 micropropagules and pipette into a well
+- do not combine micropropagules from different coral fragments
+- label the plastic near the well with the coral frag ID
+- write down the following information in lab notebook
+| time | date bailout trial started | date settlement trial started | frag ID | # micropropagules provided | settlement substrate |
+| | | | | | |
+4. Check for settlement weekly using the compound scope
+5. Add ~1.5 mL seawater to each well Monday/Weds/Friday 
+
+
+# Additional notes
 NOTE: photograph and video (~1min) control and treatment fragments before starting the experiment, T=24hr, T=48hr. Use a Snapzoom attachment for a dissecting scope for these pictures (see below).
 ![photo_station](https://github.com/thesyntheticcoral/SynCoral_Protocols/blob/master/Polyp_Bailout/equipment_images/chambers_near_scope2.png)
 
