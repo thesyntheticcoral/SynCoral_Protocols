@@ -8,7 +8,7 @@ projects: Putnam Lab, Lewinski Lab, Synthetic Coral
 ---
 
 Original: 20201113  
-Last Revised: 20210120
+Last Revised: 20210211
 
 # Protocol for inducing polyp bailout via hyperosmotic stress
 
@@ -52,12 +52,13 @@ Last Revised: 20210120
 # Bailout steps
 1. Rinse tank in freshwater to clean. Fill 4L of the tank with artificial seawater (salinity ~35 psu) leaving 2L of space for mixing high salinity water (~75psu) to get to desired ~60psu.
 -NOTE: take temperature, salinity, and pH measurements of control and treatment tanks
+-**NOTE: use artificial seawater from the large mixing tank (this is because the water table water is recirculating and might have imbalanced nutrients)**
 2. Add a clean pump to the tank.
 3. Attach (ziptie) tubing coming from the high salinity DOS head around the pump such that the solution will be delivered directly into the pump inflow and be mixed immediately.
 4. Program DOS to add 60 mL of high salinity seawater (75 psu) every 30 minutes. This increases salinity by ~0.85-1.1 psu/hour. This means you'll need to program two 14 hour doses (28-29 doses each)
 - NOTE: don't forget to program the dos to stop dosing after 14 hours so the tank will not overflow.
 -NOTE: take temperature, salinity, and pH measurements of control and treatment tanks
-5. Add a ~5mm *Pocillopora damicornis* fragment into a mesh settlement chamber.
+5. Add a ~5mm *Pocillopora acuta* fragment into a mesh settlement chamber.
 - NOTE: the coral frag is in the mesh settlement chamber so the micropropagules (bailed out polyps) don't get caught in the pump.
 6. After the first 14 hour dos-ing period, check temperature, pH, and salinity. Siphon out 2 L of water and reprogram dos for next 14 hour dosing period
 7. After bailout occurs, move the settlement chambers with coral fragments into a seawater tank at ~35psu.
@@ -83,7 +84,7 @@ Photos of the bailout tank setup can be found [here](https://github.com/thesynth
 - Settlement - 4-5 days after bailout and weekly afterwards
 
 # Response variables
-- Lab notebook post on microporapgule **Phenotyping** [here](https://github.com/hgreich/HGR_Lab_Notebook/blob/master/_posts/20210120_micropropagule_phenotyping.Md). Use a compound microscope at 4x magnification. Micropropagules can be transferred to a Sedgewick Rafter chambers via a bulb pipette for viewing.
+- Lab notebook post on microporapgule **Phenotyping** [here](https://github.com/hgreich/HGRlabnotebook/blob/master/_posts/20210120_micropropagule_phenotyping.Md). Use a compound microscope at 4x magnification. Micropropagules can be transferred to a Sedgewick Rafter chambers via a bulb pipette for viewing.
 - Sizing of microprapagules with [ImageJ](https://imagej.nih.gov/ij/docs/index.html)
 - Settlement success
 
