@@ -49,6 +49,8 @@ Last Revised: 20210211
 2. Make bailout/settlement chambers
 -take a small tupperware container and cut out most of the sides and bottom. Attach 153µm mesh around each hole with hot glue so the fragments can receive water flow. Secure mesh around the tupperware (with holes) using a hot glue gun. Soak the container in freshwater for 24h to remove any plastic or glue leechate. Precondition settlement chambers in the aquaria for a few weeks as well
 
+![experimental_setup](https://github.com/thesyntheticcoral/SynCoral_Protocols/blob/master/Polyp_Bailout/equipment_images/minitanksetup5.png)
+
 # Bailout steps
 1. Rinse tank in freshwater to clean. Fill 4L of the tank with artificial seawater (salinity ~35 psu) leaving 2L of space for mixing high salinity water (~75psu) to get to desired ~60psu.
 -NOTE: take temperature, salinity, and pH measurements of control and treatment tanks
@@ -66,9 +68,9 @@ Last Revised: 20210211
 - NOTE: take temperature, salinity, and pH measurements of control and treatment tanks before disassembling
 
 NOTE: photograph and video (~1min) control and treatment fragments before starting the experiment, T=24hr, T=48hr. Use a Snapzoom attachment for a dissecting scope for these pictures (see below).
-![photo_station](https://github.com/thesyntheticcoral/SynCoral_Protocols/blob/master/Polyp_Bailout/equipment_images/chambers_near_dissecting_scope.HEIC)
+![photo_station](https://github.com/thesyntheticcoral/SynCoral_Protocols/blob/master/Polyp_Bailout/equipment_images/chambers_near_scope2.png)
 
-Photos of the bailout tank setup can be found [here](https://github.com/thesyntheticcoral/SynCoral_Protocols/tree/master/Polyp_Bailout/equipment_images)
+More photos of the bailout tank setup can be found [here](https://github.com/thesyntheticcoral/SynCoral_Protocols/tree/master/Polyp_Bailout/equipment_images)
 
 # Water quality (ambient tank)
 - humidity (in room) 33-35
