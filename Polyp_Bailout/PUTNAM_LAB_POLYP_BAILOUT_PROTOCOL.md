@@ -92,10 +92,7 @@ Using the well plates can allow for a more controlled settlement tracking experi
 3. After bailout, count up to 20 micropropagules and pipette into a well
 - do not combine micropropagules from different coral fragments
 - label the plastic near the well with the coral frag ID
-- write down the following information in lab notebook
-
-| time | date bailout trial started | date settlement trial started | frag ID | # micropropagules provided | settlement substrate |
-| | | | | | |
+- write down the following information as a table in your lab notebook: date, time, date bailout trial started, date settlement trial started, frag ID, well plate ID, # micropropagules provided, settlement substrate provided
 4. Check for settlement weekly using the compound scope
 5. Add ~1.5 mL seawater to each well Monday/Weds/Friday
 
