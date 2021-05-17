@@ -21,10 +21,6 @@ Rationale: Counting # of corallites per Pocillopora acuta fragment will allow us
 **Steps**
 1. Remove (dried) coral fragment from plastic bag. **NOTE:** coral should be labelled with trial start date YYYYMMDD and fragment ID
 2. In your lab notebook write today's date (YYYYMMDD) and set up the table below.
-| Trial start date (YYYYMMDD) | Fragment ID | total # corallites |
-| --- | --- | --- |
-| YYYYMMDD | POC-# | #corallites |
-| YYYYMMDD | POC-# | #corallites |
 
 | Trial start date (YYYYMMDD) | Fragment ID | total # corallites |  
 | ----- | ----- | ----- |
